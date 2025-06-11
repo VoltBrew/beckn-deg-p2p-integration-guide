@@ -2402,9 +2402,6 @@ components:
           description: 'This is a unique value which persists across all API calls from `search` through `confirm`. This is done to indicate an active user session across multiple requests. The BPPs can use this value to push personalized recommendations, and dynamic offerings related to an ongoing transaction despite being unaware of the user active on the BAP.'
           format: uuid
           type: string
-        ttl:
-          description: The duration in ISO8601 format after timestamp for which this message holds valid
-          type: string
         version:
           description: Version of transaction protocol being used by the sender.
           type: string
