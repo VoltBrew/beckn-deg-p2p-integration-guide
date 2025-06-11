@@ -75,7 +75,6 @@ paths:
                             - timestamp
                             - bap_id
                             - bap_uri
-                            - ttl
                     - properties:
                         context:
                           properties:
