@@ -2,7 +2,7 @@ openapi: 3.1.0
 info:
   description: Adaptation of beckn protocol for the peer to peer energy trading. Compatible with protocol specification version 1.1.
   title: Beckn P2P energy Trading API Specification
-  version: 0.1.1
+  version: 0.1.0
 security:
   - SubscriberAuth: []
 servers:
