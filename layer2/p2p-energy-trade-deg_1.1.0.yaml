@@ -62,7 +62,6 @@ paths:
                               pattern: '^(?!https?://).*$'
                             ttl:
                               type: string
-                              format: date-time
                             timestamp:
                               type: string
                               format: date-time
@@ -75,6 +74,7 @@ paths:
                             - timestamp
                             - bap_id
                             - bap_uri
+                            - ttl
                     - properties:
                         context:
                           properties:
