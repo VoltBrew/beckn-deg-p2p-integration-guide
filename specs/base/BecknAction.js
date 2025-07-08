@@ -2,6 +2,7 @@ const fs = require('fs');
 const yaml = require('js-yaml');
 const {join} = require('path');
 const axios = require('axios');
+const util = require('util');
 
 exports = module.exports = class BecknAction {
 
@@ -32,6 +33,7 @@ exports = module.exports = class BecknAction {
         };
         console.log(specs);
         this.specs = specs;
+        console.log(JSON.stringify(this.specs.body, null, 4))
         return this;
     }
 
@@ -47,7 +49,7 @@ exports = module.exports = class BecknAction {
             console.error('Error making POST request:', error.message);
 
             if (error.response) {
-                console.error('Response Error Body:', error.response.data);
+                console.error('Response Error Body:', util.inspect(error.response.data, {depth: null, colors: true}));
             }
         });
     }

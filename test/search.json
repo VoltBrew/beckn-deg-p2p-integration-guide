@@ -1,0 +1,3966 @@
+{
+  "context": {
+    "bap_uri": "https://example.com/",
+    "bpp_uri": "https://example.com/",
+    "domain": "string",
+    "key": "string",
+    "message_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "transaction_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "version": "string",
+    "location": {
+      "3dspace": "string",
+      "address": "string",
+      "area_code": "string",
+      "circle": {
+        "gps": "90,                                                                      -180",
+        "radius": {
+          "computed_value": "-3732845267816039102782256982809653321824856685444558824398370474030221801059539",
+          "estimated_value": "9343086186619458194401529895582509300100667151611496145982543.1811803282717271898874897569351989361381645495194648854641511398067341755",
+          "range": {
+            "max": "3640041308022468919125935519603997895064521538983.834752502410786933555442905288763",
+            "min": "+66492915562795523050745628813508840590758821"
+          },
+          "type": "CONSTANT",
+          "unit": "string",
+          "value": "-77072951693764229464561129420806139484108913561876306687112902760271096752996",
+          "additionalProp1": {}
+        },
+        "additionalProp1": {}
+      },
+      "descriptor": {
+        "additional_desc": {
+          "content_type": "text/plain",
+          "url": "string"
+        },
+        "code": "string",
+        "images": [
+          {
+            "height": "string",
+            "size_type": "xs",
+            "url": "https://example.com/",
+            "width": "string",
+            "additionalProp1": {}
+          }
+        ],
+        "long_desc": "string",
+        "media": [
+          {
+            "dsa": "string",
+            "mimetype": "string",
+            "signature": "string",
+            "url": "https://example.com/",
+            "additionalProp1": {}
+          }
+        ],
+        "name": "string",
+        "short_desc": "string",
+        "additionalProp1": {}
+      },
+      "district": "string",
+      "gps": "90,                                                                       -112",
+      "id": "string",
+      "map_url": "https://example.com/",
+      "polygon": "string",
+      "rating": "string",
+      "state": {
+        "code": "string",
+        "name": "string",
+        "additionalProp1": {}
+      },
+      "city": {
+        "name": "string",
+        "code": "string",
+        "additionalProp1": {}
+      },
+      "country": {
+        "name": "string",
+        "code": "IND",
+        "additionalProp1": {}
+      },
+      "additionalProp1": {}
+    },
+    "bap_id": "ZC'^9awKj:43GG\\Nv/Plo0,x\"E,Hk/Y= A0o6'*]*x3MDfA\"@m9_",
+    "bpp_id": "t-mF\"!?k3BC<W3b<3jO7cOvwAjFz%yaXJFkTL^FRhZ)f44[o4'Y9NiFt\"=`TE.twMCZ${*iQMqfrbW||6Zk7V`Q",
+    "ttl": "2025-06-11T14:42:36.774Z",
+    "timestamp": "2025-06-11T14:42:36.774Z",
+    "action": "search",
+    "additionalProp1": {}
+  },
+  "message": {
+    "intent": {
+      "category": {
+        "descriptor": {
+          "additional_desc": {
+            "content_type": "text/plain",
+            "url": "string"
+          },
+          "code": "string",
+          "images": [
+            {
+              "height": "string",
+              "size_type": "xs",
+              "url": "https://example.com/",
+              "width": "string",
+              "additionalProp1": {}
+            }
+          ],
+          "long_desc": "string",
+          "media": [
+            {
+              "dsa": "string",
+              "mimetype": "string",
+              "signature": "string",
+              "url": "https://example.com/",
+              "additionalProp1": {}
+            }
+          ],
+          "name": "string",
+          "short_desc": "string",
+          "additionalProp1": {}
+        },
+        "id": "string",
+        "parent_category_id": "string",
+        "tags": [
+          {
+            "descriptor": {
+              "additional_desc": {
+                "content_type": "text/plain",
+                "url": "string"
+              },
+              "code": "string",
+              "images": [
+                {
+                  "height": "string",
+                  "size_type": "xs",
+                  "url": "https://example.com/",
+                  "width": "string",
+                  "additionalProp1": {}
+                }
+              ],
+              "long_desc": "string",
+              "media": [
+                {
+                  "dsa": "string",
+                  "mimetype": "string",
+                  "signature": "string",
+                  "url": "https://example.com/",
+                  "additionalProp1": {}
+                }
+              ],
+              "name": "string",
+              "short_desc": "string",
+              "additionalProp1": {}
+            },
+            "display": true,
+            "list": [
+              {
+                "descriptor": {
+                  "additional_desc": {
+                    "content_type": "text/plain",
+                    "url": "string"
+                  },
+                  "code": "string",
+                  "images": [
+                    {
+                      "height": "string",
+                      "size_type": "xs",
+                      "url": "https://example.com/",
+                      "width": "string",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "long_desc": "string",
+                  "media": [
+                    {
+                      "dsa": "string",
+                      "mimetype": "string",
+                      "signature": "string",
+                      "url": "https://example.com/",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "name": "string",
+                  "short_desc": "string",
+                  "additionalProp1": {}
+                },
+                "display": true,
+                "value": "string",
+                "additionalProp1": {}
+              }
+            ],
+            "additionalProp1": {}
+          }
+        ],
+        "time": {
+          "days": "string",
+          "duration": "string",
+          "label": "string",
+          "range": {
+            "end": "2025-06-11T14:42:36.774Z",
+            "start": "2025-06-11T14:42:36.774Z"
+          },
+          "schedule": {
+            "frequency": "string",
+            "holidays": [
+              "2025-06-11T14:42:36.774Z"
+            ],
+            "times": [
+              "2025-06-11T14:42:36.774Z"
+            ],
+            "additionalProp1": {}
+          },
+          "timestamp": "2025-06-11T14:42:36.774Z",
+          "additionalProp1": {}
+        },
+        "ttl": "string",
+        "additionalProp1": {}
+      },
+      "descriptor": {
+        "additional_desc": {
+          "content_type": "text/plain",
+          "url": "string"
+        },
+        "code": "string",
+        "images": [
+          {
+            "height": "string",
+            "size_type": "xs",
+            "url": "https://example.com/",
+            "width": "string",
+            "additionalProp1": {}
+          }
+        ],
+        "long_desc": "string",
+        "media": [
+          {
+            "dsa": "string",
+            "mimetype": "string",
+            "signature": "string",
+            "url": "https://example.com/",
+            "additionalProp1": {}
+          }
+        ],
+        "name": "string",
+        "short_desc": "string",
+        "additionalProp1": {}
+      },
+      "item": {
+        "add_ons": [
+          {
+            "descriptor": {
+              "additional_desc": {
+                "content_type": "text/plain",
+                "url": "string"
+              },
+              "code": "string",
+              "images": [
+                {
+                  "height": "string",
+                  "size_type": "xs",
+                  "url": "https://example.com/",
+                  "width": "string",
+                  "additionalProp1": {}
+                }
+              ],
+              "long_desc": "string",
+              "media": [
+                {
+                  "dsa": "string",
+                  "mimetype": "string",
+                  "signature": "string",
+                  "url": "https://example.com/",
+                  "additionalProp1": {}
+                }
+              ],
+              "name": "string",
+              "short_desc": "string",
+              "additionalProp1": {}
+            },
+            "id": "string",
+            "price": {
+              "computed_value": "18986614275842883565258292",
+              "currency": "string",
+              "estimated_value": "5816102034292580050715425982942879956045495855",
+              "listed_value": "708636299439650302635075435031066688764542523449",
+              "maximum_value": "3.791349850367021104432362506203969803608878105466083927326728236369668633738472657329094530",
+              "minimum_value": "+2690503032306891501063223151820626940634805972418987215439948228112883610305645760980260334188273.265228629606642468361568381008115490775624313409551979870968732400045860191814157871634045356632",
+              "offered_value": "2030591375391237.17955327371110640149054712952348495907999126901126217232307989190936092721489318644",
+              "value": "+7405384403257550991253821844905988292893598",
+              "additionalProp1": {}
+            },
+            "additionalProp1": {}
+          }
+        ],
+        "cancellation_terms": [
+          {
+            "cancel_by": {
+              "days": "string",
+              "duration": "string",
+              "label": "string",
+              "range": {
+                "end": "2025-06-11T14:42:36.775Z",
+                "start": "2025-06-11T14:42:36.775Z"
+              },
+              "schedule": {
+                "frequency": "string",
+                "holidays": [
+                  "2025-06-11T14:42:36.775Z"
+                ],
+                "times": [
+                  "2025-06-11T14:42:36.775Z"
+                ],
+                "additionalProp1": {}
+              },
+              "timestamp": "2025-06-11T14:42:36.775Z",
+              "additionalProp1": {}
+            },
+            "cancellation_fee": {
+              "amount": {
+                "computed_value": "8296582539352506630777441920383773591924941281100563865818798924542211842462796084922309899793.2091161963431",
+                "currency": "string",
+                "estimated_value": "-60079820468276111462110347593611480009037547354096867207938269197252409.45613826265086751782693504918467124363129454770019007687077632198225882050662428776242063899079467",
+                "listed_value": "+1300324839426928177737578414134856042074762248621826703962373400948105514237.34961935573363971410712088783390699957119652791036869",
+                "maximum_value": "-0070571268012788599996621825716025391050065756183172083261569232246432083396930.62269687646513361432",
+                "minimum_value": "84099639821971795259022582033749355936267067477448162051966559",
+                "offered_value": "5241682257834369455945516601597910373652447183074901114680823820243",
+                "value": "79",
+                "additionalProp1": {}
+              },
+              "percentage": "031734931812786938545795361433781626650746930812049763914040590051906",
+              "additionalProp1": {}
+            },
+            "external_ref": {
+              "dsa": "string",
+              "mimetype": "string",
+              "signature": "string",
+              "url": "https://example.com/",
+              "additionalProp1": {}
+            },
+            "fulfillment_state": {
+              "descriptor": {
+                "additional_desc": {
+                  "content_type": "text/plain",
+                  "url": "string"
+                },
+                "code": "string",
+                "images": [
+                  {
+                    "height": "string",
+                    "size_type": "xs",
+                    "url": "https://example.com/",
+                    "width": "string",
+                    "additionalProp1": {}
+                  }
+                ],
+                "long_desc": "string",
+                "media": [
+                  {
+                    "dsa": "string",
+                    "mimetype": "string",
+                    "signature": "string",
+                    "url": "https://example.com/",
+                    "additionalProp1": {}
+                  }
+                ],
+                "name": "string",
+                "short_desc": "string",
+                "additionalProp1": {}
+              },
+              "updated_at": "2025-06-11T14:42:36.777Z",
+              "updated_by": "string",
+              "additionalProp1": {}
+            },
+            "reason_required": true,
+            "xinput": {
+              "form": {
+                "data": {
+                  "additionalProp1": "string",
+                  "additionalProp2": "string",
+                  "additionalProp3": "string"
+                },
+                "mime_type": "text/html",
+                "submission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                "url": "https://example.com/",
+                "additionalProp1": {}
+              },
+              "required": true,
+              "additionalProp1": {}
+            },
+            "additionalProp1": {}
+          }
+        ],
+        "category_ids": [
+          "string"
+        ],
+        "creator": {
+          "address": "string",
+          "city": {
+            "code": "string",
+            "name": "string",
+            "additionalProp1": {}
+          },
+          "contact": {
+            "email": "string",
+            "jcard": {},
+            "phone": "string",
+            "additionalProp1": {}
+          },
+          "descriptor": {
+            "additional_desc": {
+              "content_type": "text/plain",
+              "url": "string"
+            },
+            "code": "string",
+            "images": [
+              {
+                "height": "string",
+                "size_type": "xs",
+                "url": "https://example.com/",
+                "width": "string",
+                "additionalProp1": {}
+              }
+            ],
+            "long_desc": "string",
+            "media": [
+              {
+                "dsa": "string",
+                "mimetype": "string",
+                "signature": "string",
+                "url": "https://example.com/",
+                "additionalProp1": {}
+              }
+            ],
+            "name": "string",
+            "short_desc": "string",
+            "additionalProp1": {}
+          },
+          "state": {
+            "code": "string",
+            "name": "string",
+            "additionalProp1": {}
+          },
+          "additionalProp1": {}
+        },
+        "descriptor": {
+          "additional_desc": {
+            "content_type": "text/plain",
+            "url": "string"
+          },
+          "code": "string",
+          "images": [
+            {
+              "height": "string",
+              "size_type": "xs",
+              "url": "https://example.com/",
+              "width": "string",
+              "additionalProp1": {}
+            }
+          ],
+          "long_desc": "string",
+          "media": [
+            {
+              "dsa": "string",
+              "mimetype": "string",
+              "signature": "string",
+              "url": "https://example.com/",
+              "additionalProp1": {}
+            }
+          ],
+          "name": "string",
+          "short_desc": "string",
+          "additionalProp1": {}
+        },
+        "fulfillment_ids": [
+          "string"
+        ],
+        "id": "string",
+        "location_ids": [
+          "string"
+        ],
+        "matched": true,
+        "parent_item_id": "string",
+        "parent_item_quantity": {
+          "allocated": {
+            "count": 0,
+            "measure": {
+              "computed_value": "3892274786718241887111.723182343265953170",
+              "estimated_value": "+36806746152831650988274091844823074903023522193102678175106468281393301203977251583603776734828592558",
+              "range": {
+                "max": "631389951087479330381287094567522123379259370474145280937206",
+                "min": "99758405142064096741321340221802045607"
+              },
+              "type": "CONSTANT",
+              "unit": "string",
+              "value": "-437520928285920049352190138898965955026299797751299655942",
+              "additionalProp1": {}
+            }
+          },
+          "available": {
+            "count": 0,
+            "measure": {
+              "computed_value": "+744060775993359463366290841786515854705036682583675041.477371348240602842244709398266697726818483223465996326493102185578346017838471633519535",
+              "estimated_value": "-94403379513642144570364417685989524852639665207656903056.8645072496495433992350041507057279328568020152921063972527437728540348",
+              "range": {
+                "max": "61757418615576170026518.104341984739518157611070409152008228249741819983660111912",
+                "min": "4997943620552284469520986075293.877858042253207661223"
+              },
+              "type": "CONSTANT",
+              "unit": "string",
+              "value": "97251283225425752772437664044195347307149399239064582664601.63245985791495887",
+              "additionalProp1": {}
+            }
+          },
+          "maximum": {
+            "count": 0,
+            "measure": {
+              "computed_value": "-5065796882176295871017064503026581605",
+              "estimated_value": "+934333761033710261762943195262894015152045661897824788980269256.625570854604254942108474369408854761931",
+              "range": {
+                "max": "-409119864445791384423961639223198781557437661646975496348911378006.398101451283454727508573369084992901644770157696951746066409749598364093",
+                "min": "-108243329383082976617947109947419217831684973095697452455734250208104603481920498649930247987918"
+              },
+              "type": "CONSTANT",
+              "unit": "string",
+              "value": "+115005676457824111742534404913853278013595498017885571388982832",
+              "additionalProp1": {}
+            }
+          },
+          "minimum": {
+            "count": 0,
+            "measure": {
+              "computed_value": "7235967275358215675589633772321754563",
+              "estimated_value": "6342963701491292413172231806659305056834470273.810570342494841122",
+              "range": {
+                "max": "+10412572746866025114054603136211363286522701.56087289158051286618950501636055",
+                "min": "-8405304321644154320236031"
+              },
+              "type": "CONSTANT",
+              "unit": "string",
+              "value": "5694427583310364055733687752106785778016604822.897450078420510787827306640267827614568478565976822094290962161828598",
+              "additionalProp1": {}
+            }
+          },
+          "selected": {
+            "count": 0,
+            "measure": {
+              "computed_value": "027782628736952404325578896912463874301068968320864318906074590953126",
+              "estimated_value": "2569796496778968996480315430295664486944111250.502001889919923105139486644895149013383213941378",
+              "range": {
+                "max": "0551679336219585141045788278607940584688394",
+                "min": "+05499665.382209404117988303061944069986771234526265651237600397922"
+              },
+              "type": "CONSTANT",
+              "unit": "string",
+              "value": "10682655419872193795700345589196569266187694663895697697753776821.4215087561913398888452277449587197033517356396149129453899039671737439713580",
+              "additionalProp1": {}
+            }
+          },
+          "unitized": {
+            "count": 0,
+            "measure": {
+              "computed_value": "28658341165178991711018684666120350385054451578901412795768104863816235377897631142426860409",
+              "estimated_value": "+108193209493502359145036183162341403333463099589139540",
+              "range": {
+                "max": "-6430538169825863173024608368082",
+                "min": "2461179199712954058865898545516383190747139366387204944289669580297734553124232335024598251201"
+              },
+              "type": "CONSTANT",
+              "unit": "string",
+              "value": "9946772410464955486387938637410244113676466523694580754043744233176799558554530.9271903184340644929800514845590152064381512566233043236633575021130059284822418994862987514881940",
+              "additionalProp1": {}
+            }
+          },
+          "additionalProp1": {}
+        },
+        "payment_ids": [
+          "string"
+        ],
+        "price": {
+          "computed_value": "0446779098785155308907738747441129334545373722020426898759503191466906210860263483376727.1336443271324098243162",
+          "currency": "string",
+          "estimated_value": "+77386730307847500517270626726176494",
+          "listed_value": "+037677819716024641043825458109712812194457007836244743781",
+          "maximum_value": "277466453299494126209110156820348384188683962219304889534009689103046924933320731.87598614097160147304178672286330323763466656351865940164",
+          "minimum_value": "1973699441667771227548456039605604836658923.623297",
+          "offered_value": "882055634086240060924108156585312155512746255101947536704918739.666630282042176332145237646225956894687155670",
+          "value": "484372377070032710024",
+          "additionalProp1": {}
+        },
+        "quantity": {
+          "allocated": {
+            "count": 0,
+            "measure": {
+              "computed_value": "-25034177353811765702189236441598043857793585952938",
+              "estimated_value": "+5.2268702866255051172669966564343324549129",
+              "range": {
+                "max": "-431439130147225275268506904996207364521178558790265590555942767062665587395495562688184130",
+                "min": "-2261672991785967611331907380336487072788555511119091811946"
+              },
+              "type": "CONSTANT",
+              "unit": "string",
+              "value": "-523474141027541227348629",
+              "additionalProp1": {}
+            }
+          },
+          "available": {
+            "count": 0,
+            "measure": {
+              "computed_value": "-9158681163299959468411383860468651864147394175404138798074163745490754227583.178749006412941849718044608871198772736606708860043013903624066754932014535584219031821978",
+              "estimated_value": "12874563967566495502836474345542709605845694023517011997.21309933776691817550223001791149957684279954946819195634466804845298183758",
+              "range": {
+                "max": "75471.15912658977350912420283303436408169990023160276471458",
+                "min": "+83737022382637731750620903117851648839435867117870803877576555298073977699965622540"
+              },
+              "type": "CONSTANT",
+              "unit": "string",
+              "value": "+175016767923352897580432499308612066894",
+              "additionalProp1": {}
+            }
+          },
+          "maximum": {
+            "count": 0,
+            "measure": {
+              "computed_value": "569274470.917417239874288070010",
+              "estimated_value": "+.229974886480872692625518111541176614547",
+              "range": {
+                "max": "-0069639055787440014399727193896832984316816288286778998647163799618447462568799497621928050771832205.4238819957817522790323975623904333326677526258782124666318263477814557",
+                "min": "-03511042127906276813113354581614636104121090344164347605205603805677785798754"
+              },
+              "type": "CONSTANT",
+              "unit": "string",
+              "value": "-87099",
+              "additionalProp1": {}
+            }
+          },
+          "minimum": {
+            "count": 0,
+            "measure": {
+              "computed_value": "+6979279120481029822584598111636506782340553454754036626077767895217939332921.1593374537298966689139",
+              "estimated_value": "+6611153736432",
+              "range": {
+                "max": "+430533381229017208048349504675",
+                "min": "6432567.74689139719655801049932884983668758195067185655564197333"
+              },
+              "type": "CONSTANT",
+              "unit": "string",
+              "value": "0587099369054626631868179190239911334113231327243282145760521.57338928266944380007075923486748166968",
+              "additionalProp1": {}
+            }
+          },
+          "selected": {
+            "count": 0,
+            "measure": {
+              "computed_value": "978454110580474819046174424939621869783406377186719452784784123242380605596504889903006694524",
+              "estimated_value": "510473874926554000448078427090009",
+              "range": {
+                "max": "+19162887323957417990575975598034013481404523202796222914360724706",
+                "min": "+838314.839337382351387482974072591146876905079993545742524393380917609106972845709866335587252478005641"
+              },
+              "type": "CONSTANT",
+              "unit": "string",
+              "value": "+8629034325709277167649685172196957589204",
+              "additionalProp1": {}
+            }
+          },
+          "unitized": {
+            "count": 0,
+            "measure": {
+              "computed_value": "443888390175485478262573612091889",
+              "estimated_value": "+411302629486319820528198833128275120911407803192811563958104961149638359787929519518391098.0722764697216745347288763012760885807",
+              "range": {
+                "max": "650955523683452292946877204853988783988907864136005787.255065147804545232705547412767511308382161965231944229335377759803938567874769732000109579072934",
+                "min": "+027901261703215.885607256020094866111885000689974785043149437507214673917450994589322210481175"
+              },
+              "type": "CONSTANT",
+              "unit": "string",
+              "value": "-1027715864446551695702556900503503514696306913129047376883",
+              "additionalProp1": {}
+            }
+          },
+          "additionalProp1": {}
+        },
+        "rateable": true,
+        "rating": "string",
+        "recommended": true,
+        "refund_terms": [
+          {
+            "fulfillment_state": {
+              "code": "string",
+              "name": "string",
+              "additionalProp1": {}
+            },
+            "refund_amount": {
+              "computed_value": "706554370247843508051123600170961974714858197060677575655972538817459326465666045238",
+              "currency": "string",
+              "estimated_value": "+052903091530034136818876424829690468833779526466725.79421346460609602612",
+              "listed_value": "+7742552500043450307323149968175009659146124934709",
+              "maximum_value": "32596472069918962881493641170797270024456237595",
+              "minimum_value": "93883263719020747004733283201811438270580032915727942738073806915951086308987226.216922063866024668982745849810173007110910723214657041267220",
+              "offered_value": "8410543067919331676893333485392911075455783588020.20457469251",
+              "value": "-4238094.098312",
+              "additionalProp1": {}
+            },
+            "refund_eligible": true,
+            "refund_within": {
+              "days": "string",
+              "duration": "string",
+              "label": "string",
+              "range": {
+                "end": "2025-06-11T14:42:36.782Z",
+                "start": "2025-06-11T14:42:36.782Z"
+              },
+              "schedule": {
+                "frequency": "string",
+                "holidays": [
+                  "2025-06-11T14:42:36.782Z"
+                ],
+                "times": [
+                  "2025-06-11T14:42:36.782Z"
+                ],
+                "additionalProp1": {}
+              },
+              "timestamp": "2025-06-11T14:42:36.782Z",
+              "additionalProp1": {}
+            }
+          }
+        ],
+        "related": true,
+        "replacement_terms": [
+          {
+            "external_ref": {
+              "dsa": "string",
+              "mimetype": "string",
+              "signature": "string",
+              "url": "https://example.com/",
+              "additionalProp1": {}
+            },
+            "fulfillment_state": {
+              "code": "string",
+              "name": "string",
+              "additionalProp1": {}
+            },
+            "replace_within": {
+              "days": "string",
+              "duration": "string",
+              "label": "string",
+              "range": {
+                "end": "2025-06-11T14:42:36.782Z",
+                "start": "2025-06-11T14:42:36.782Z"
+              },
+              "schedule": {
+                "frequency": "string",
+                "holidays": [
+                  "2025-06-11T14:42:36.782Z"
+                ],
+                "times": [
+                  "2025-06-11T14:42:36.782Z"
+                ],
+                "additionalProp1": {}
+              },
+              "timestamp": "2025-06-11T14:42:36.782Z",
+              "additionalProp1": {}
+            },
+            "additionalProp1": {}
+          }
+        ],
+        "return_terms": [
+          {
+            "fulfillment_managed_by": "string",
+            "fulfillment_state": {
+              "code": "string",
+              "name": "string",
+              "additionalProp1": {}
+            },
+            "return_eligible": true,
+            "return_location": {
+              "3dspace": "string",
+              "address": "string",
+              "area_code": "string",
+              "circle": {
+                "gps": "51.021281454565415624539377,                                                                -135.830416455329915170609547951269012063457852287746915670346228308339100178168",
+                "radius": {
+                  "computed_value": "-11835697742414",
+                  "estimated_value": "7975634372722006427390974821347171728213085042259172963710",
+                  "range": {
+                    "max": "65624841823187668135867739015451511460540873082709",
+                    "min": "50730.16679805630316923819526546208025589733024623436567586678398859"
+                  },
+                  "type": "CONSTANT",
+                  "unit": "string",
+                  "value": "0901224596586185824",
+                  "additionalProp1": {}
+                },
+                "additionalProp1": {}
+              },
+              "city": {
+                "code": "string",
+                "name": "string",
+                "additionalProp1": {}
+              },
+              "country": {
+                "code": "string",
+                "name": "string",
+                "additionalProp1": {}
+              },
+              "descriptor": {
+                "additional_desc": {
+                  "content_type": "text/plain",
+                  "url": "string"
+                },
+                "code": "string",
+                "images": [
+                  {
+                    "height": "string",
+                    "size_type": "xs",
+                    "url": "https://example.com/",
+                    "width": "string",
+                    "additionalProp1": {}
+                  }
+                ],
+                "long_desc": "string",
+                "media": [
+                  {
+                    "dsa": "string",
+                    "mimetype": "string",
+                    "signature": "string",
+                    "url": "https://example.com/",
+                    "additionalProp1": {}
+                  }
+                ],
+                "name": "string",
+                "short_desc": "string",
+                "additionalProp1": {}
+              },
+              "district": "string",
+              "gps": "+90.000000000000000000000000000000000000000,                   180",
+              "id": "string",
+              "map_url": "https://example.com/",
+              "polygon": "string",
+              "rating": "string",
+              "state": {
+                "code": "string",
+                "name": "string",
+                "additionalProp1": {}
+              },
+              "additionalProp1": {}
+            },
+            "return_time": {
+              "days": "string",
+              "duration": "string",
+              "label": "string",
+              "range": {
+                "end": "2025-06-11T14:42:36.783Z",
+                "start": "2025-06-11T14:42:36.783Z"
+              },
+              "schedule": {
+                "frequency": "string",
+                "holidays": [
+                  "2025-06-11T14:42:36.783Z"
+                ],
+                "times": [
+                  "2025-06-11T14:42:36.783Z"
+                ],
+                "additionalProp1": {}
+              },
+              "timestamp": "2025-06-11T14:42:36.783Z",
+              "additionalProp1": {}
+            },
+            "additionalProp1": {}
+          }
+        ],
+        "tags": [
+          {
+            "descriptor": {
+              "additional_desc": {
+                "content_type": "text/plain",
+                "url": "string"
+              },
+              "code": "string",
+              "images": [
+                {
+                  "height": "string",
+                  "size_type": "xs",
+                  "url": "https://example.com/",
+                  "width": "string",
+                  "additionalProp1": {}
+                }
+              ],
+              "long_desc": "string",
+              "media": [
+                {
+                  "dsa": "string",
+                  "mimetype": "string",
+                  "signature": "string",
+                  "url": "https://example.com/",
+                  "additionalProp1": {}
+                }
+              ],
+              "name": "string",
+              "short_desc": "string",
+              "additionalProp1": {}
+            },
+            "display": true,
+            "list": [
+              {
+                "descriptor": {
+                  "additional_desc": {
+                    "content_type": "text/plain",
+                    "url": "string"
+                  },
+                  "code": "string",
+                  "images": [
+                    {
+                      "height": "string",
+                      "size_type": "xs",
+                      "url": "https://example.com/",
+                      "width": "string",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "long_desc": "string",
+                  "media": [
+                    {
+                      "dsa": "string",
+                      "mimetype": "string",
+                      "signature": "string",
+                      "url": "https://example.com/",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "name": "string",
+                  "short_desc": "string",
+                  "additionalProp1": {}
+                },
+                "display": true,
+                "value": "string",
+                "additionalProp1": {}
+              }
+            ],
+            "additionalProp1": {}
+          }
+        ],
+        "time": {
+          "days": "string",
+          "duration": "string",
+          "label": "string",
+          "range": {
+            "end": "2025-06-11T14:42:36.784Z",
+            "start": "2025-06-11T14:42:36.784Z"
+          },
+          "schedule": {
+            "frequency": "string",
+            "holidays": [
+              "2025-06-11T14:42:36.784Z"
+            ],
+            "times": [
+              "2025-06-11T14:42:36.784Z"
+            ],
+            "additionalProp1": {}
+          },
+          "timestamp": "2025-06-11T14:42:36.784Z",
+          "additionalProp1": {}
+        },
+        "ttl": "string",
+        "xinput": {
+          "form": {
+            "data": {
+              "additionalProp1": "string",
+              "additionalProp2": "string",
+              "additionalProp3": "string"
+            },
+            "mime_type": "text/html",
+            "submission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "url": "https://example.com/",
+            "additionalProp1": {}
+          },
+          "required": true,
+          "additionalProp1": {}
+        },
+        "additionalProp1": {}
+      },
+      "offer": {
+        "category_ids": [
+          "string"
+        ],
+        "descriptor": {
+          "additional_desc": {
+            "content_type": "text/plain",
+            "url": "string"
+          },
+          "code": "string",
+          "images": [
+            {
+              "height": "string",
+              "size_type": "xs",
+              "url": "https://example.com/",
+              "width": "string",
+              "additionalProp1": {}
+            }
+          ],
+          "long_desc": "string",
+          "media": [
+            {
+              "dsa": "string",
+              "mimetype": "string",
+              "signature": "string",
+              "url": "https://example.com/",
+              "additionalProp1": {}
+            }
+          ],
+          "name": "string",
+          "short_desc": "string",
+          "additionalProp1": {}
+        },
+        "id": "string",
+        "item_ids": [
+          "string"
+        ],
+        "location_ids": [
+          "string"
+        ],
+        "tags": [
+          {
+            "descriptor": {
+              "additional_desc": {
+                "content_type": "text/plain",
+                "url": "string"
+              },
+              "code": "string",
+              "images": [
+                {
+                  "height": "string",
+                  "size_type": "xs",
+                  "url": "https://example.com/",
+                  "width": "string",
+                  "additionalProp1": {}
+                }
+              ],
+              "long_desc": "string",
+              "media": [
+                {
+                  "dsa": "string",
+                  "mimetype": "string",
+                  "signature": "string",
+                  "url": "https://example.com/",
+                  "additionalProp1": {}
+                }
+              ],
+              "name": "string",
+              "short_desc": "string",
+              "additionalProp1": {}
+            },
+            "display": true,
+            "list": [
+              {
+                "descriptor": {
+                  "additional_desc": {
+                    "content_type": "text/plain",
+                    "url": "string"
+                  },
+                  "code": "string",
+                  "images": [
+                    {
+                      "height": "string",
+                      "size_type": "xs",
+                      "url": "https://example.com/",
+                      "width": "string",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "long_desc": "string",
+                  "media": [
+                    {
+                      "dsa": "string",
+                      "mimetype": "string",
+                      "signature": "string",
+                      "url": "https://example.com/",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "name": "string",
+                  "short_desc": "string",
+                  "additionalProp1": {}
+                },
+                "display": true,
+                "value": "string",
+                "additionalProp1": {}
+              }
+            ],
+            "additionalProp1": {}
+          }
+        ],
+        "time": {
+          "days": "string",
+          "duration": "string",
+          "label": "string",
+          "range": {
+            "end": "2025-06-11T14:42:36.784Z",
+            "start": "2025-06-11T14:42:36.784Z"
+          },
+          "schedule": {
+            "frequency": "string",
+            "holidays": [
+              "2025-06-11T14:42:36.784Z"
+            ],
+            "times": [
+              "2025-06-11T14:42:36.784Z"
+            ],
+            "additionalProp1": {}
+          },
+          "timestamp": "2025-06-11T14:42:36.784Z",
+          "additionalProp1": {}
+        },
+        "additionalProp1": {}
+      },
+      "payment": {
+        "collected_by": "string",
+        "id": "string",
+        "params": {
+          "amount": "string",
+          "bank_account_number": "string",
+          "bank_code": "string",
+          "currency": "string",
+          "source_bank_account_number": "string",
+          "source_bank_code": "string",
+          "source_virtual_payment_address": "string",
+          "transaction_id": "string",
+          "virtual_payment_address": "string"
+        },
+        "status": "string",
+        "tags": [
+          {
+            "descriptor": {
+              "additional_desc": {
+                "content_type": "text/plain",
+                "url": "string"
+              },
+              "code": "string",
+              "images": [
+                {
+                  "height": "string",
+                  "size_type": "xs",
+                  "url": "https://example.com/",
+                  "width": "string",
+                  "additionalProp1": {}
+                }
+              ],
+              "long_desc": "string",
+              "media": [
+                {
+                  "dsa": "string",
+                  "mimetype": "string",
+                  "signature": "string",
+                  "url": "https://example.com/",
+                  "additionalProp1": {}
+                }
+              ],
+              "name": "string",
+              "short_desc": "string",
+              "additionalProp1": {}
+            },
+            "display": true,
+            "list": [
+              {
+                "descriptor": {
+                  "additional_desc": {
+                    "content_type": "text/plain",
+                    "url": "string"
+                  },
+                  "code": "string",
+                  "images": [
+                    {
+                      "height": "string",
+                      "size_type": "xs",
+                      "url": "https://example.com/",
+                      "width": "string",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "long_desc": "string",
+                  "media": [
+                    {
+                      "dsa": "string",
+                      "mimetype": "string",
+                      "signature": "string",
+                      "url": "https://example.com/",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "name": "string",
+                  "short_desc": "string",
+                  "additionalProp1": {}
+                },
+                "display": true,
+                "value": "string",
+                "additionalProp1": {}
+              }
+            ],
+            "additionalProp1": {}
+          }
+        ],
+        "time": {
+          "days": "string",
+          "duration": "string",
+          "label": "string",
+          "range": {
+            "end": "2025-06-11T14:42:36.784Z",
+            "start": "2025-06-11T14:42:36.784Z"
+          },
+          "schedule": {
+            "frequency": "string",
+            "holidays": [
+              "2025-06-11T14:42:36.784Z"
+            ],
+            "times": [
+              "2025-06-11T14:42:36.784Z"
+            ],
+            "additionalProp1": {}
+          },
+          "timestamp": "2025-06-11T14:42:36.784Z",
+          "additionalProp1": {}
+        },
+        "type": "string",
+        "url": "https://example.com/",
+        "additionalProp1": {}
+      },
+      "provider": {
+        "categories": [
+          {
+            "descriptor": {
+              "additional_desc": {
+                "content_type": "text/plain",
+                "url": "string"
+              },
+              "code": "string",
+              "images": [
+                {
+                  "height": "string",
+                  "size_type": "xs",
+                  "url": "https://example.com/",
+                  "width": "string",
+                  "additionalProp1": {}
+                }
+              ],
+              "long_desc": "string",
+              "media": [
+                {
+                  "dsa": "string",
+                  "mimetype": "string",
+                  "signature": "string",
+                  "url": "https://example.com/",
+                  "additionalProp1": {}
+                }
+              ],
+              "name": "string",
+              "short_desc": "string",
+              "additionalProp1": {}
+            },
+            "id": "string",
+            "parent_category_id": "string",
+            "tags": [
+              {
+                "descriptor": {
+                  "additional_desc": {
+                    "content_type": "text/plain",
+                    "url": "string"
+                  },
+                  "code": "string",
+                  "images": [
+                    {
+                      "height": "string",
+                      "size_type": "xs",
+                      "url": "https://example.com/",
+                      "width": "string",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "long_desc": "string",
+                  "media": [
+                    {
+                      "dsa": "string",
+                      "mimetype": "string",
+                      "signature": "string",
+                      "url": "https://example.com/",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "name": "string",
+                  "short_desc": "string",
+                  "additionalProp1": {}
+                },
+                "display": true,
+                "list": [
+                  {
+                    "descriptor": {
+                      "additional_desc": {
+                        "content_type": "text/plain",
+                        "url": "string"
+                      },
+                      "code": "string",
+                      "images": [
+                        {
+                          "height": "string",
+                          "size_type": "xs",
+                          "url": "https://example.com/",
+                          "width": "string",
+                          "additionalProp1": {}
+                        }
+                      ],
+                      "long_desc": "string",
+                      "media": [
+                        {
+                          "dsa": "string",
+                          "mimetype": "string",
+                          "signature": "string",
+                          "url": "https://example.com/",
+                          "additionalProp1": {}
+                        }
+                      ],
+                      "name": "string",
+                      "short_desc": "string",
+                      "additionalProp1": {}
+                    },
+                    "display": true,
+                    "value": "string",
+                    "additionalProp1": {}
+                  }
+                ],
+                "additionalProp1": {}
+              }
+            ],
+            "time": {
+              "days": "string",
+              "duration": "string",
+              "label": "string",
+              "range": {
+                "end": "2025-06-11T14:42:36.784Z",
+                "start": "2025-06-11T14:42:36.784Z"
+              },
+              "schedule": {
+                "frequency": "string",
+                "holidays": [
+                  "2025-06-11T14:42:36.784Z"
+                ],
+                "times": [
+                  "2025-06-11T14:42:36.784Z"
+                ],
+                "additionalProp1": {}
+              },
+              "timestamp": "2025-06-11T14:42:36.784Z",
+              "additionalProp1": {}
+            },
+            "ttl": "string",
+            "additionalProp1": {}
+          }
+        ],
+        "category_id": "string",
+        "descriptor": {
+          "additional_desc": {
+            "content_type": "text/plain",
+            "url": "string"
+          },
+          "code": "string",
+          "images": [
+            {
+              "height": "string",
+              "size_type": "xs",
+              "url": "https://example.com/",
+              "width": "string",
+              "additionalProp1": {}
+            }
+          ],
+          "long_desc": "string",
+          "media": [
+            {
+              "dsa": "string",
+              "mimetype": "string",
+              "signature": "string",
+              "url": "https://example.com/",
+              "additionalProp1": {}
+            }
+          ],
+          "name": "string",
+          "short_desc": "string",
+          "additionalProp1": {}
+        },
+        "exp": "2025-06-11T14:42:36.784Z",
+        "fulfillments": [
+          {
+            "agent": {
+              "contact": {
+                "email": "string",
+                "jcard": {},
+                "phone": "string",
+                "additionalProp1": {}
+              },
+              "organization": {
+                "address": "string",
+                "city": {
+                  "code": "string",
+                  "name": "string",
+                  "additionalProp1": {}
+                },
+                "contact": {
+                  "email": "string",
+                  "jcard": {},
+                  "phone": "string",
+                  "additionalProp1": {}
+                },
+                "descriptor": {
+                  "additional_desc": {
+                    "content_type": "text/plain",
+                    "url": "string"
+                  },
+                  "code": "string",
+                  "images": [
+                    {
+                      "height": "string",
+                      "size_type": "xs",
+                      "url": "https://example.com/",
+                      "width": "string",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "long_desc": "string",
+                  "media": [
+                    {
+                      "dsa": "string",
+                      "mimetype": "string",
+                      "signature": "string",
+                      "url": "https://example.com/",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "name": "string",
+                  "short_desc": "string",
+                  "additionalProp1": {}
+                },
+                "state": {
+                  "code": "string",
+                  "name": "string",
+                  "additionalProp1": {}
+                },
+                "additionalProp1": {}
+              },
+              "person": {
+                "age": "string",
+                "creds": [
+                  {
+                    "id": "string",
+                    "type": "VerifiableCredential",
+                    "url": "https://example.com/",
+                    "additionalProp1": {}
+                  }
+                ],
+                "dob": "2025-06-11",
+                "gender": "string",
+                "id": "string",
+                "image": {
+                  "height": "string",
+                  "size_type": "xs",
+                  "url": "https://example.com/",
+                  "width": "string",
+                  "additionalProp1": {}
+                },
+                "languages": [
+                  {
+                    "code": "string",
+                    "name": "string"
+                  }
+                ],
+                "name": "string",
+                "skills": [
+                  {
+                    "code": "string",
+                    "name": "string"
+                  }
+                ],
+                "tags": [
+                  {
+                    "descriptor": {
+                      "additional_desc": {
+                        "content_type": "text/plain",
+                        "url": "string"
+                      },
+                      "code": "string",
+                      "images": [
+                        {
+                          "height": "string",
+                          "size_type": "xs",
+                          "url": "https://example.com/",
+                          "width": "string",
+                          "additionalProp1": {}
+                        }
+                      ],
+                      "long_desc": "string",
+                      "media": [
+                        {
+                          "dsa": "string",
+                          "mimetype": "string",
+                          "signature": "string",
+                          "url": "https://example.com/",
+                          "additionalProp1": {}
+                        }
+                      ],
+                      "name": "string",
+                      "short_desc": "string",
+                      "additionalProp1": {}
+                    },
+                    "display": true,
+                    "list": [
+                      {
+                        "descriptor": {
+                          "additional_desc": {
+                            "content_type": "text/plain",
+                            "url": "string"
+                          },
+                          "code": "string",
+                          "images": [
+                            {
+                              "height": "string",
+                              "size_type": "xs",
+                              "url": "https://example.com/",
+                              "width": "string",
+                              "additionalProp1": {}
+                            }
+                          ],
+                          "long_desc": "string",
+                          "media": [
+                            {
+                              "dsa": "string",
+                              "mimetype": "string",
+                              "signature": "string",
+                              "url": "https://example.com/",
+                              "additionalProp1": {}
+                            }
+                          ],
+                          "name": "string",
+                          "short_desc": "string",
+                          "additionalProp1": {}
+                        },
+                        "display": true,
+                        "value": "string",
+                        "additionalProp1": {}
+                      }
+                    ],
+                    "additionalProp1": {}
+                  }
+                ],
+                "url": "https://example.com/",
+                "additionalProp1": {}
+              },
+              "rating": "string",
+              "additionalProp1": {}
+            },
+            "contact": {
+              "email": "string",
+              "jcard": {},
+              "phone": "string",
+              "additionalProp1": {}
+            },
+            "customer": {
+              "contact": {
+                "email": "string",
+                "jcard": {},
+                "phone": "string",
+                "additionalProp1": {}
+              },
+              "person": {
+                "age": "string",
+                "creds": [
+                  {
+                    "id": "string",
+                    "type": "VerifiableCredential",
+                    "url": "https://example.com/",
+                    "additionalProp1": {}
+                  }
+                ],
+                "dob": "2025-06-11",
+                "gender": "string",
+                "id": "string",
+                "image": {
+                  "height": "string",
+                  "size_type": "xs",
+                  "url": "https://example.com/",
+                  "width": "string",
+                  "additionalProp1": {}
+                },
+                "languages": [
+                  {
+                    "code": "string",
+                    "name": "string"
+                  }
+                ],
+                "name": "string",
+                "skills": [
+                  {
+                    "code": "string",
+                    "name": "string"
+                  }
+                ],
+                "tags": [
+                  {
+                    "descriptor": {
+                      "additional_desc": {
+                        "content_type": "text/plain",
+                        "url": "string"
+                      },
+                      "code": "string",
+                      "images": [
+                        {
+                          "height": "string",
+                          "size_type": "xs",
+                          "url": "https://example.com/",
+                          "width": "string",
+                          "additionalProp1": {}
+                        }
+                      ],
+                      "long_desc": "string",
+                      "media": [
+                        {
+                          "dsa": "string",
+                          "mimetype": "string",
+                          "signature": "string",
+                          "url": "https://example.com/",
+                          "additionalProp1": {}
+                        }
+                      ],
+                      "name": "string",
+                      "short_desc": "string",
+                      "additionalProp1": {}
+                    },
+                    "display": true,
+                    "list": [
+                      {
+                        "descriptor": {
+                          "additional_desc": {
+                            "content_type": "text/plain",
+                            "url": "string"
+                          },
+                          "code": "string",
+                          "images": [
+                            {
+                              "height": "string",
+                              "size_type": "xs",
+                              "url": "https://example.com/",
+                              "width": "string",
+                              "additionalProp1": {}
+                            }
+                          ],
+                          "long_desc": "string",
+                          "media": [
+                            {
+                              "dsa": "string",
+                              "mimetype": "string",
+                              "signature": "string",
+                              "url": "https://example.com/",
+                              "additionalProp1": {}
+                            }
+                          ],
+                          "name": "string",
+                          "short_desc": "string",
+                          "additionalProp1": {}
+                        },
+                        "display": true,
+                        "value": "string",
+                        "additionalProp1": {}
+                      }
+                    ],
+                    "additionalProp1": {}
+                  }
+                ],
+                "url": "https://example.com/",
+                "additionalProp1": {}
+              },
+              "additionalProp1": {}
+            },
+            "id": "string",
+            "path": "string",
+            "rateable": true,
+            "rating": "string",
+            "state": {
+              "descriptor": {
+                "additional_desc": {
+                  "content_type": "text/plain",
+                  "url": "string"
+                },
+                "code": "string",
+                "images": [
+                  {
+                    "height": "string",
+                    "size_type": "xs",
+                    "url": "https://example.com/",
+                    "width": "string",
+                    "additionalProp1": {}
+                  }
+                ],
+                "long_desc": "string",
+                "media": [
+                  {
+                    "dsa": "string",
+                    "mimetype": "string",
+                    "signature": "string",
+                    "url": "https://example.com/",
+                    "additionalProp1": {}
+                  }
+                ],
+                "name": "string",
+                "short_desc": "string",
+                "additionalProp1": {}
+              },
+              "updated_at": "2025-06-11T14:42:36.785Z",
+              "updated_by": "string",
+              "additionalProp1": {}
+            },
+            "stops": [
+              {
+                "authorization": {
+                  "status": "string",
+                  "token": "string",
+                  "type": "string",
+                  "valid_from": "2025-06-11T14:42:36.785Z",
+                  "valid_to": "2025-06-11T14:42:36.785Z",
+                  "additionalProp1": {}
+                },
+                "contact": {
+                  "email": "string",
+                  "jcard": {},
+                  "phone": "string",
+                  "additionalProp1": {}
+                },
+                "id": "string",
+                "instructions": {
+                  "additional_desc": {
+                    "content_type": "text/plain",
+                    "url": "string"
+                  },
+                  "code": "string",
+                  "images": [
+                    {
+                      "height": "string",
+                      "size_type": "xs",
+                      "url": "https://example.com/",
+                      "width": "string",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "long_desc": "string",
+                  "media": [
+                    {
+                      "dsa": "string",
+                      "mimetype": "string",
+                      "signature": "string",
+                      "url": "https://example.com/",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "name": "string",
+                  "short_desc": "string",
+                  "additionalProp1": {}
+                },
+                "location": {
+                  "3dspace": "string",
+                  "address": "string",
+                  "area_code": "string",
+                  "circle": {
+                    "gps": "-6.9598037849110985292714001,                                      150.568393066951309189149898620433466380846",
+                    "radius": {
+                      "computed_value": "-7483985173949479606377513381949116608063426347546036434140580283501473532081138",
+                      "estimated_value": "-129413312434619650557998125177473168074055508168506287915364847441741087637856570981737.01264798384711966497956516765596237119620629221343762299451300633046500025083264723588337070078433",
+                      "range": {
+                        "max": "-238012315072061062576735919149300508900373901563966",
+                        "min": "4974339261068186252205230832901241450009557533565149075134078029631630432055680040917877"
+                      },
+                      "type": "CONSTANT",
+                      "unit": "string",
+                      "value": "030161159937384215805909109294537520",
+                      "additionalProp1": {}
+                    },
+                    "additionalProp1": {}
+                  },
+                  "city": {
+                    "code": "string",
+                    "name": "string",
+                    "additionalProp1": {}
+                  },
+                  "country": {
+                    "code": "string",
+                    "name": "string",
+                    "additionalProp1": {}
+                  },
+                  "descriptor": {
+                    "additional_desc": {
+                      "content_type": "text/plain",
+                      "url": "string"
+                    },
+                    "code": "string",
+                    "images": [
+                      {
+                        "height": "string",
+                        "size_type": "xs",
+                        "url": "https://example.com/",
+                        "width": "string",
+                        "additionalProp1": {}
+                      }
+                    ],
+                    "long_desc": "string",
+                    "media": [
+                      {
+                        "dsa": "string",
+                        "mimetype": "string",
+                        "signature": "string",
+                        "url": "https://example.com/",
+                        "additionalProp1": {}
+                      }
+                    ],
+                    "name": "string",
+                    "short_desc": "string",
+                    "additionalProp1": {}
+                  },
+                  "district": "string",
+                  "gps": "+90.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000,               +118.40284897858101785450258434588102048128802440344955",
+                  "id": "string",
+                  "map_url": "https://example.com/",
+                  "polygon": "string",
+                  "rating": "string",
+                  "state": {
+                    "code": "string",
+                    "name": "string",
+                    "additionalProp1": {}
+                  },
+                  "additionalProp1": {}
+                },
+                "parent_stop_id": "string",
+                "person": {
+                  "age": "string",
+                  "creds": [
+                    {
+                      "id": "string",
+                      "type": "VerifiableCredential",
+                      "url": "https://example.com/",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "dob": "2025-06-11",
+                  "gender": "string",
+                  "id": "string",
+                  "image": {
+                    "height": "string",
+                    "size_type": "xs",
+                    "url": "https://example.com/",
+                    "width": "string",
+                    "additionalProp1": {}
+                  },
+                  "languages": [
+                    {
+                      "code": "string",
+                      "name": "string"
+                    }
+                  ],
+                  "name": "string",
+                  "skills": [
+                    {
+                      "code": "string",
+                      "name": "string"
+                    }
+                  ],
+                  "tags": [
+                    {
+                      "descriptor": {
+                        "additional_desc": {
+                          "content_type": "text/plain",
+                          "url": "string"
+                        },
+                        "code": "string",
+                        "images": [
+                          {
+                            "height": "string",
+                            "size_type": "xs",
+                            "url": "https://example.com/",
+                            "width": "string",
+                            "additionalProp1": {}
+                          }
+                        ],
+                        "long_desc": "string",
+                        "media": [
+                          {
+                            "dsa": "string",
+                            "mimetype": "string",
+                            "signature": "string",
+                            "url": "https://example.com/",
+                            "additionalProp1": {}
+                          }
+                        ],
+                        "name": "string",
+                        "short_desc": "string",
+                        "additionalProp1": {}
+                      },
+                      "display": true,
+                      "list": [
+                        {
+                          "descriptor": {
+                            "additional_desc": {
+                              "content_type": "text/plain",
+                              "url": "string"
+                            },
+                            "code": "string",
+                            "images": [
+                              {
+                                "height": "string",
+                                "size_type": "xs",
+                                "url": "https://example.com/",
+                                "width": "string",
+                                "additionalProp1": {}
+                              }
+                            ],
+                            "long_desc": "string",
+                            "media": [
+                              {
+                                "dsa": "string",
+                                "mimetype": "string",
+                                "signature": "string",
+                                "url": "https://example.com/",
+                                "additionalProp1": {}
+                              }
+                            ],
+                            "name": "string",
+                            "short_desc": "string",
+                            "additionalProp1": {}
+                          },
+                          "display": true,
+                          "value": "string",
+                          "additionalProp1": {}
+                        }
+                      ],
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "url": "https://example.com/",
+                  "additionalProp1": {}
+                },
+                "time": {
+                  "days": "string",
+                  "duration": "string",
+                  "label": "string",
+                  "range": {
+                    "end": "2025-06-11T14:42:36.788Z",
+                    "start": "2025-06-11T14:42:36.788Z"
+                  },
+                  "schedule": {
+                    "frequency": "string",
+                    "holidays": [
+                      "2025-06-11T14:42:36.788Z"
+                    ],
+                    "times": [
+                      "2025-06-11T14:42:36.788Z"
+                    ],
+                    "additionalProp1": {}
+                  },
+                  "timestamp": "2025-06-11T14:42:36.788Z",
+                  "additionalProp1": {}
+                },
+                "type": "START",
+                "additionalProp1": {}
+              }
+            ],
+            "tags": [
+              {
+                "descriptor": {
+                  "additional_desc": {
+                    "content_type": "text/plain",
+                    "url": "string"
+                  },
+                  "code": "string",
+                  "images": [
+                    {
+                      "height": "string",
+                      "size_type": "xs",
+                      "url": "https://example.com/",
+                      "width": "string",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "long_desc": "string",
+                  "media": [
+                    {
+                      "dsa": "string",
+                      "mimetype": "string",
+                      "signature": "string",
+                      "url": "https://example.com/",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "name": "string",
+                  "short_desc": "string",
+                  "additionalProp1": {}
+                },
+                "display": true,
+                "list": [
+                  {
+                    "descriptor": {
+                      "additional_desc": {
+                        "content_type": "text/plain",
+                        "url": "string"
+                      },
+                      "code": "string",
+                      "images": [
+                        {
+                          "height": "string",
+                          "size_type": "xs",
+                          "url": "https://example.com/",
+                          "width": "string",
+                          "additionalProp1": {}
+                        }
+                      ],
+                      "long_desc": "string",
+                      "media": [
+                        {
+                          "dsa": "string",
+                          "mimetype": "string",
+                          "signature": "string",
+                          "url": "https://example.com/",
+                          "additionalProp1": {}
+                        }
+                      ],
+                      "name": "string",
+                      "short_desc": "string",
+                      "additionalProp1": {}
+                    },
+                    "display": true,
+                    "value": "string",
+                    "additionalProp1": {}
+                  }
+                ],
+                "additionalProp1": {}
+              }
+            ],
+            "tracking": false,
+            "type": "string",
+            "vehicle": {
+              "capacity": 0,
+              "cargo_volumne": "string",
+              "category": "string",
+              "code": "string",
+              "color": "string",
+              "emission_standard": "string",
+              "energy_type": "string",
+              "make": "string",
+              "model": "string",
+              "registration": "string",
+              "size": "string",
+              "variant": "string",
+              "wheelchair_access": "string",
+              "wheels_count": "string",
+              "additionalProp1": {}
+            },
+            "additionalProp1": {}
+          }
+        ],
+        "id": "string",
+        "items": [
+          {
+            "add_ons": [
+              {
+                "descriptor": {
+                  "additional_desc": {
+                    "content_type": "text/plain",
+                    "url": "string"
+                  },
+                  "code": "string",
+                  "images": [
+                    {
+                      "height": "string",
+                      "size_type": "xs",
+                      "url": "https://example.com/",
+                      "width": "string",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "long_desc": "string",
+                  "media": [
+                    {
+                      "dsa": "string",
+                      "mimetype": "string",
+                      "signature": "string",
+                      "url": "https://example.com/",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "name": "string",
+                  "short_desc": "string",
+                  "additionalProp1": {}
+                },
+                "id": "string",
+                "price": {
+                  "computed_value": "7415519164832277298848677959535967602518697024.24030442891864283158534375024170701099803448517822997180632346171",
+                  "currency": "string",
+                  "estimated_value": "+06551832350294285210804095",
+                  "listed_value": "2.4117171532159113533129957536303772621843746761323234534571258100901399",
+                  "maximum_value": "-4631369255111938588435576856893802219687882480876.358240205340453515739904547283849896955982",
+                  "minimum_value": "199414877147912590506412128801632917134453942583323.4606378826804966368726264314979982403949462459011017887812713242240251681503",
+                  "offered_value": "9273467292555986598069076785.9",
+                  "value": "+6371439131041462890713936500808679301789343441450144660855813195112677981.95126708170176187395986290736432430465901185871321887359092580261458724326717377914965385843149",
+                  "additionalProp1": {}
+                },
+                "additionalProp1": {}
+              }
+            ],
+            "cancellation_terms": [
+              {
+                "cancel_by": {
+                  "days": "string",
+                  "duration": "string",
+                  "label": "string",
+                  "range": {
+                    "end": "2025-06-11T14:42:36.789Z",
+                    "start": "2025-06-11T14:42:36.789Z"
+                  },
+                  "schedule": {
+                    "frequency": "string",
+                    "holidays": [
+                      "2025-06-11T14:42:36.789Z"
+                    ],
+                    "times": [
+                      "2025-06-11T14:42:36.789Z"
+                    ],
+                    "additionalProp1": {}
+                  },
+                  "timestamp": "2025-06-11T14:42:36.789Z",
+                  "additionalProp1": {}
+                },
+                "cancellation_fee": {
+                  "amount": {
+                    "computed_value": "48923075497278233534825637812385050794832403701956178535241025225565999587783",
+                    "currency": "string",
+                    "estimated_value": "-096666830440909478178801627043619073197066337595518683726110932176.1948272608790884154864618627184044676007554214469359987604785",
+                    "listed_value": "22114424750708979683456160250369520584751086039648506173660459439",
+                    "maximum_value": "49887166676424520993761273384387382639194659094851848566871069716206581396238223781685191503195130594",
+                    "minimum_value": "+3625.476529",
+                    "offered_value": "+8369929532927814787218006223037169876870803213884105128",
+                    "value": "13433352319062269756250137938074444724435065260991805457425125636630366229515501550046.7084238111171746798588275717564290903596261455717916543661826238799905163187",
+                    "additionalProp1": {}
+                  },
+                  "percentage": "76108963025104807066558765862.474814252079313648134332648421103787602446753418247826457385",
+                  "additionalProp1": {}
+                },
+                "external_ref": {
+                  "dsa": "string",
+                  "mimetype": "string",
+                  "signature": "string",
+                  "url": "https://example.com/",
+                  "additionalProp1": {}
+                },
+                "fulfillment_state": {
+                  "descriptor": {
+                    "additional_desc": {
+                      "content_type": "text/plain",
+                      "url": "string"
+                    },
+                    "code": "string",
+                    "images": [
+                      {
+                        "height": "string",
+                        "size_type": "xs",
+                        "url": "https://example.com/",
+                        "width": "string",
+                        "additionalProp1": {}
+                      }
+                    ],
+                    "long_desc": "string",
+                    "media": [
+                      {
+                        "dsa": "string",
+                        "mimetype": "string",
+                        "signature": "string",
+                        "url": "https://example.com/",
+                        "additionalProp1": {}
+                      }
+                    ],
+                    "name": "string",
+                    "short_desc": "string",
+                    "additionalProp1": {}
+                  },
+                  "updated_at": "2025-06-11T14:42:36.789Z",
+                  "updated_by": "string",
+                  "additionalProp1": {}
+                },
+                "reason_required": true,
+                "xinput": {
+                  "form": {
+                    "data": {
+                      "additionalProp1": "string",
+                      "additionalProp2": "string",
+                      "additionalProp3": "string"
+                    },
+                    "mime_type": "text/html",
+                    "submission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                    "url": "https://example.com/",
+                    "additionalProp1": {}
+                  },
+                  "required": true,
+                  "additionalProp1": {}
+                },
+                "additionalProp1": {}
+              }
+            ],
+            "category_ids": [
+              "string"
+            ],
+            "creator": {
+              "address": "string",
+              "city": {
+                "code": "string",
+                "name": "string",
+                "additionalProp1": {}
+              },
+              "contact": {
+                "email": "string",
+                "jcard": {},
+                "phone": "string",
+                "additionalProp1": {}
+              },
+              "descriptor": {
+                "additional_desc": {
+                  "content_type": "text/plain",
+                  "url": "string"
+                },
+                "code": "string",
+                "images": [
+                  {
+                    "height": "string",
+                    "size_type": "xs",
+                    "url": "https://example.com/",
+                    "width": "string",
+                    "additionalProp1": {}
+                  }
+                ],
+                "long_desc": "string",
+                "media": [
+                  {
+                    "dsa": "string",
+                    "mimetype": "string",
+                    "signature": "string",
+                    "url": "https://example.com/",
+                    "additionalProp1": {}
+                  }
+                ],
+                "name": "string",
+                "short_desc": "string",
+                "additionalProp1": {}
+              },
+              "state": {
+                "code": "string",
+                "name": "string",
+                "additionalProp1": {}
+              },
+              "additionalProp1": {}
+            },
+            "descriptor": {
+              "additional_desc": {
+                "content_type": "text/plain",
+                "url": "string"
+              },
+              "code": "string",
+              "images": [
+                {
+                  "height": "string",
+                  "size_type": "xs",
+                  "url": "https://example.com/",
+                  "width": "string",
+                  "additionalProp1": {}
+                }
+              ],
+              "long_desc": "string",
+              "media": [
+                {
+                  "dsa": "string",
+                  "mimetype": "string",
+                  "signature": "string",
+                  "url": "https://example.com/",
+                  "additionalProp1": {}
+                }
+              ],
+              "name": "string",
+              "short_desc": "string",
+              "additionalProp1": {}
+            },
+            "fulfillment_ids": [
+              "string"
+            ],
+            "id": "string",
+            "location_ids": [
+              "string"
+            ],
+            "matched": true,
+            "parent_item_id": "string",
+            "parent_item_quantity": {
+              "allocated": {
+                "count": 0,
+                "measure": {
+                  "computed_value": "11934749604736668606802268130197.75291",
+                  "estimated_value": "51388814484947921872085929782.1004714376983620884676437998156241360816927659806785648831346",
+                  "range": {
+                    "max": "-4326541020066352605468",
+                    "min": "1184538063242360056904024622073896910717471151392454849010731561181977624626022165805803950"
+                  },
+                  "type": "CONSTANT",
+                  "unit": "string",
+                  "value": "1282214155868394049300745900379382953549109709361377435238400267369998716827908535341.8194556086251554417814401680542017279129685817",
+                  "additionalProp1": {}
+                }
+              },
+              "available": {
+                "count": 0,
+                "measure": {
+                  "computed_value": "+279297488624480483030187759791702387764068810626473293045440442234602198927240",
+                  "estimated_value": "805568982793",
+                  "range": {
+                    "max": "-45668.44200541132009771898583394680235796618833665",
+                    "min": "+796752205773455707782507971841339784805798124422959092090871110650735280.400673240709888951468658851264538564117023057990226014269052831125492354274752944452"
+                  },
+                  "type": "CONSTANT",
+                  "unit": "string",
+                  "value": "42676866853154465625520021910035436789894.507480521979962370977858338079747793932382858170566095931",
+                  "additionalProp1": {}
+                }
+              },
+              "maximum": {
+                "count": 0,
+                "measure": {
+                  "computed_value": "67080332427133646178498197260863164762350281601422363785124717109066457662120534992584232130.47900568749564655551277444428709963091",
+                  "estimated_value": "-2703",
+                  "range": {
+                    "max": "655233721192.942492966469",
+                    "min": "8742394944580560933664327966363282495848785106641520348320588227301400354949569"
+                  },
+                  "type": "CONSTANT",
+                  "unit": "string",
+                  "value": "346409446183334056850509247347.3668374692528497759167446130287864721030521",
+                  "additionalProp1": {}
+                }
+              },
+              "minimum": {
+                "count": 0,
+                "measure": {
+                  "computed_value": "+5008652320552528443170410857242641990853189541767732069186957663425050922213932280079217200241",
+                  "estimated_value": "689958245924561948893157823208206145128982392726621611.07471434601107386474357980",
+                  "range": {
+                    "max": "+2862499812790302939117940868480952902830381094865504471891129125313681012613821.2856422365817663051435043480790",
+                    "min": "247209169021933775509267818099422625952761804783936976823687831792977538802795797785831916"
+                  },
+                  "type": "CONSTANT",
+                  "unit": "string",
+                  "value": "998493329714882399962645258161584941205693887406.631872343742945301779676504986076281545035289508971244126491595856665750185072890630155700",
+                  "additionalProp1": {}
+                }
+              },
+              "selected": {
+                "count": 0,
+                "measure": {
+                  "computed_value": "84251218696358879576540380354450840200930243762469912966445844468180507653644959018940",
+                  "estimated_value": "30901227729804163706543334127109830931116128335438988317715051591056894713409633088391240590",
+                  "range": {
+                    "max": "541235239135696753.8595475657444655964152329051216360530754680237637291768055142429790650634314",
+                    "min": "6323.985889668002052845767100338936722008171911"
+                  },
+                  "type": "CONSTANT",
+                  "unit": "string",
+                  "value": "4029138029.8964142831145958947958629689966127051903510588408519564890623293892213865",
+                  "additionalProp1": {}
+                }
+              },
+              "unitized": {
+                "count": 0,
+                "measure": {
+                  "computed_value": "6981006164186668106392918758122891507945285948331039111569002694399533322490252114340348362144096474.4978433408218424541459512127219",
+                  "estimated_value": "7215126418664972698585937957805914690497112442215426745719859098054868783990662002836195366435191",
+                  "range": {
+                    "max": "565517535202852826533988567480380567507384206336558628805833888203.911110393059961439774990589",
+                    "min": "1808493879204329873603976452223805474290936396329186518392984631948113247063173743270691271807712"
+                  },
+                  "type": "CONSTANT",
+                  "unit": "string",
+                  "value": "+7495029663644304252940006958774634207609813060364456450669292065148.9884392735843049784149313299543780205756195501865775809774",
+                  "additionalProp1": {}
+                }
+              },
+              "additionalProp1": {}
+            },
+            "payment_ids": [
+              "string"
+            ],
+            "price": {
+              "computed_value": "791892972896499853163277514729646119202459160456932330444776192634904881454284075410997144277",
+              "currency": "string",
+              "estimated_value": "-425717164033112875544473838773413135615699442978.143410520027427270",
+              "listed_value": "+084269581901163074251",
+              "maximum_value": "+1797567167753528286652678885881118542594653693732.3669419952288381751375225373806177116703281506351705471",
+              "minimum_value": "-1746187618759733346706188899941822073986077791126418105950012489923928383859757133233079516705892178",
+              "offered_value": "+714767678309.9950985973658438902160224874778227629381125",
+              "value": "686883375049.431119370802251516555156112126869396301211420216212249405397552",
+              "additionalProp1": {}
+            },
+            "quantity": {
+              "allocated": {
+                "count": 0,
+                "measure": {
+                  "computed_value": "+3",
+                  "estimated_value": "077316077359205008119040297379574703239243477857641003214341186390661.793889362704196886243533537771836127706405004452653950396",
+                  "range": {
+                    "max": "+664035336817579993009438932663334246672.33095329885475072661874226111237042233",
+                    "min": "167872082642446790083294746626216121620812070178886768476.83811497789639573567124427549216794796804429885804964055977725323031585152929"
+                  },
+                  "type": "CONSTANT",
+                  "unit": "string",
+                  "value": "374511022385382922975382276431235354371838739878356318672030873183392.392821630622309287901710626723362980337808341926386877286621107636080",
+                  "additionalProp1": {}
+                }
+              },
+              "available": {
+                "count": 0,
+                "measure": {
+                  "computed_value": "+9528404348874544498816700194230431820709381953885511900414",
+                  "estimated_value": "786640691378685246710426655411429524676244663552.94380932216856731254856003377223429246361219283584928356773448154029583153",
+                  "range": {
+                    "max": "94471797000293791511850221357208465830846661663826153330697.79886577866454663897",
+                    "min": "511312207998816908023687746015377887444682075454759766387978100438541231741101726249979566204"
+                  },
+                  "type": "CONSTANT",
+                  "unit": "string",
+                  "value": "352167416403356216933064167183322012099922078",
+                  "additionalProp1": {}
+                }
+              },
+              "maximum": {
+                "count": 0,
+                "measure": {
+                  "computed_value": "3133393203393825382490798017753364834986822264398985187.572323930450983046177865846",
+                  "estimated_value": "-62118446678960445162968653877069129279543141693056158199372115928664208859",
+                  "range": {
+                    "max": "643248128582613839486890006498981413069044353163730120184431658611319.68542159779",
+                    "min": "-1438090525346283993004843354871"
+                  },
+                  "type": "CONSTANT",
+                  "unit": "string",
+                  "value": "+952389398810642357539520932373726981634568379",
+                  "additionalProp1": {}
+                }
+              },
+              "minimum": {
+                "count": 0,
+                "measure": {
+                  "computed_value": "15028975415132129433648499649719981766080675685635",
+                  "estimated_value": "00127864.7885360584",
+                  "range": {
+                    "max": "9978327684568794788688169831215137456577734367690776735233865353669634567371895330142058613847.042797845417392666164721845078596153886380818665889",
+                    "min": "9090841185639906158863575424887262912651139559494083"
+                  },
+                  "type": "CONSTANT",
+                  "unit": "string",
+                  "value": "-9886481917434415854872828334667943507600543891847204891176148018.923711701636862602995808096778203741728874133062373117355023251088528",
+                  "additionalProp1": {}
+                }
+              },
+              "selected": {
+                "count": 0,
+                "measure": {
+                  "computed_value": "+848077171131947306914144346976333672579247905524109760677276486163",
+                  "estimated_value": "+43.9485386502278998124415718176114022769",
+                  "range": {
+                    "max": "130155426581670.2",
+                    "min": "831372.429866719861842499371566053362400913770964325936167353290114690007554443477832651544210206038"
+                  },
+                  "type": "CONSTANT",
+                  "unit": "string",
+                  "value": "7840499796069302755689356164057294628182096226325.42162572671262095001299932559873891637160155",
+                  "additionalProp1": {}
+                }
+              },
+              "unitized": {
+                "count": 0,
+                "measure": {
+                  "computed_value": "-0",
+                  "estimated_value": "01900407986300502879965681236662368468604165746961665663022132892312914662162831326672",
+                  "range": {
+                    "max": "571934612420131945069559979394473588774788021578237761955409372439468662471066739577",
+                    "min": "4182456073408742383763244556466418806957538714826009728752209004152132203466583"
+                  },
+                  "type": "CONSTANT",
+                  "unit": "string",
+                  "value": "-13262036500288697191427784609365865618661088695621542716490862316839639568916066403175716604554337.9551610177297",
+                  "additionalProp1": {}
+                }
+              },
+              "additionalProp1": {}
+            },
+            "rateable": true,
+            "rating": "string",
+            "recommended": true,
+            "refund_terms": [
+              {
+                "fulfillment_state": {
+                  "code": "string",
+                  "name": "string",
+                  "additionalProp1": {}
+                },
+                "refund_amount": {
+                  "computed_value": "+15020804284722505969690655444973773105092455443415",
+                  "currency": "string",
+                  "estimated_value": "320422256076516441307525300738630330976612377.456174757330786338163765731847",
+                  "listed_value": "4186933023541799.151432336621",
+                  "maximum_value": "021951925546709993054262427265534727706983018319764524.32425733256495297773656347375991350509500092756406304044576658584481994149687897108",
+                  "minimum_value": "73290",
+                  "offered_value": "+22011477684634990105096409334644686780523748606239136617806852395.834155859857724378403448072966512814056034890940037208041592407586746062097867242",
+                  "value": "796953715.695818859989153334943121894251",
+                  "additionalProp1": {}
+                },
+                "refund_eligible": true,
+                "refund_within": {
+                  "days": "string",
+                  "duration": "string",
+                  "label": "string",
+                  "range": {
+                    "end": "2025-06-11T14:42:36.795Z",
+                    "start": "2025-06-11T14:42:36.795Z"
+                  },
+                  "schedule": {
+                    "frequency": "string",
+                    "holidays": [
+                      "2025-06-11T14:42:36.795Z"
+                    ],
+                    "times": [
+                      "2025-06-11T14:42:36.795Z"
+                    ],
+                    "additionalProp1": {}
+                  },
+                  "timestamp": "2025-06-11T14:42:36.795Z",
+                  "additionalProp1": {}
+                }
+              }
+            ],
+            "related": true,
+            "replacement_terms": [
+              {
+                "external_ref": {
+                  "dsa": "string",
+                  "mimetype": "string",
+                  "signature": "string",
+                  "url": "https://example.com/",
+                  "additionalProp1": {}
+                },
+                "fulfillment_state": {
+                  "code": "string",
+                  "name": "string",
+                  "additionalProp1": {}
+                },
+                "replace_within": {
+                  "days": "string",
+                  "duration": "string",
+                  "label": "string",
+                  "range": {
+                    "end": "2025-06-11T14:42:36.795Z",
+                    "start": "2025-06-11T14:42:36.795Z"
+                  },
+                  "schedule": {
+                    "frequency": "string",
+                    "holidays": [
+                      "2025-06-11T14:42:36.795Z"
+                    ],
+                    "times": [
+                      "2025-06-11T14:42:36.795Z"
+                    ],
+                    "additionalProp1": {}
+                  },
+                  "timestamp": "2025-06-11T14:42:36.795Z",
+                  "additionalProp1": {}
+                },
+                "additionalProp1": {}
+              }
+            ],
+            "return_terms": [
+              {
+                "fulfillment_managed_by": "string",
+                "fulfillment_state": {
+                  "code": "string",
+                  "name": "string",
+                  "additionalProp1": {}
+                },
+                "return_eligible": true,
+                "return_location": {
+                  "3dspace": "string",
+                  "address": "string",
+                  "area_code": "string",
+                  "circle": {
+                    "gps": "-1.983248136443283452488628549844303636151928004750686804363740,                     180",
+                    "radius": {
+                      "computed_value": "71262957289072400",
+                      "estimated_value": "479993040399366242953775224739947613741668368173549349505417294910536487661725504799792182.9812",
+                      "range": {
+                        "max": "+163321185625255026741776361144240512250030091982575198093136096233447155",
+                        "min": "304317174835456104952365101780708546002536643709700247482530068520594093219"
+                      },
+                      "type": "CONSTANT",
+                      "unit": "string",
+                      "value": "-69721482133602560151318674054229151897568045109180997031",
+                      "additionalProp1": {}
+                    },
+                    "additionalProp1": {}
+                  },
+                  "city": {
+                    "code": "string",
+                    "name": "string",
+                    "additionalProp1": {}
+                  },
+                  "country": {
+                    "code": "string",
+                    "name": "string",
+                    "additionalProp1": {}
+                  },
+                  "descriptor": {
+                    "additional_desc": {
+                      "content_type": "text/plain",
+                      "url": "string"
+                    },
+                    "code": "string",
+                    "images": [
+                      {
+                        "height": "string",
+                        "size_type": "xs",
+                        "url": "https://example.com/",
+                        "width": "string",
+                        "additionalProp1": {}
+                      }
+                    ],
+                    "long_desc": "string",
+                    "media": [
+                      {
+                        "dsa": "string",
+                        "mimetype": "string",
+                        "signature": "string",
+                        "url": "https://example.com/",
+                        "additionalProp1": {}
+                      }
+                    ],
+                    "name": "string",
+                    "short_desc": "string",
+                    "additionalProp1": {}
+                  },
+                  "district": "string",
+                  "gps": "51,                                                                                      -44.49995081241751",
+                  "id": "string",
+                  "map_url": "https://example.com/",
+                  "polygon": "string",
+                  "rating": "string",
+                  "state": {
+                    "code": "string",
+                    "name": "string",
+                    "additionalProp1": {}
+                  },
+                  "additionalProp1": {}
+                },
+                "return_time": {
+                  "days": "string",
+                  "duration": "string",
+                  "label": "string",
+                  "range": {
+                    "end": "2025-06-11T14:42:36.798Z",
+                    "start": "2025-06-11T14:42:36.798Z"
+                  },
+                  "schedule": {
+                    "frequency": "string",
+                    "holidays": [
+                      "2025-06-11T14:42:36.798Z"
+                    ],
+                    "times": [
+                      "2025-06-11T14:42:36.798Z"
+                    ],
+                    "additionalProp1": {}
+                  },
+                  "timestamp": "2025-06-11T14:42:36.798Z",
+                  "additionalProp1": {}
+                },
+                "additionalProp1": {}
+              }
+            ],
+            "tags": [
+              {
+                "descriptor": {
+                  "additional_desc": {
+                    "content_type": "text/plain",
+                    "url": "string"
+                  },
+                  "code": "string",
+                  "images": [
+                    {
+                      "height": "string",
+                      "size_type": "xs",
+                      "url": "https://example.com/",
+                      "width": "string",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "long_desc": "string",
+                  "media": [
+                    {
+                      "dsa": "string",
+                      "mimetype": "string",
+                      "signature": "string",
+                      "url": "https://example.com/",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "name": "string",
+                  "short_desc": "string",
+                  "additionalProp1": {}
+                },
+                "display": true,
+                "list": [
+                  {
+                    "descriptor": {
+                      "additional_desc": {
+                        "content_type": "text/plain",
+                        "url": "string"
+                      },
+                      "code": "string",
+                      "images": [
+                        {
+                          "height": "string",
+                          "size_type": "xs",
+                          "url": "https://example.com/",
+                          "width": "string",
+                          "additionalProp1": {}
+                        }
+                      ],
+                      "long_desc": "string",
+                      "media": [
+                        {
+                          "dsa": "string",
+                          "mimetype": "string",
+                          "signature": "string",
+                          "url": "https://example.com/",
+                          "additionalProp1": {}
+                        }
+                      ],
+                      "name": "string",
+                      "short_desc": "string",
+                      "additionalProp1": {}
+                    },
+                    "display": true,
+                    "value": "string",
+                    "additionalProp1": {}
+                  }
+                ],
+                "additionalProp1": {}
+              }
+            ],
+            "time": {
+              "days": "string",
+              "duration": "string",
+              "label": "string",
+              "range": {
+                "end": "2025-06-11T14:42:36.798Z",
+                "start": "2025-06-11T14:42:36.798Z"
+              },
+              "schedule": {
+                "frequency": "string",
+                "holidays": [
+                  "2025-06-11T14:42:36.798Z"
+                ],
+                "times": [
+                  "2025-06-11T14:42:36.798Z"
+                ],
+                "additionalProp1": {}
+              },
+              "timestamp": "2025-06-11T14:42:36.798Z",
+              "additionalProp1": {}
+            },
+            "ttl": "string",
+            "xinput": {
+              "form": {
+                "data": {
+                  "additionalProp1": "string",
+                  "additionalProp2": "string",
+                  "additionalProp3": "string"
+                },
+                "mime_type": "text/html",
+                "submission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                "url": "https://example.com/",
+                "additionalProp1": {}
+              },
+              "required": true,
+              "additionalProp1": {}
+            },
+            "additionalProp1": {}
+          }
+        ],
+        "locations": [
+          {
+            "3dspace": "string",
+            "address": "string",
+            "area_code": "string",
+            "circle": {
+              "gps": "90.000000000000,   +180",
+              "radius": {
+                "computed_value": "99064665382309860563916960768292011860337030898177148309932253680088.08138376009402543747664261986",
+                "estimated_value": "15384086453221740073144692774039638048281073099",
+                "range": {
+                  "max": "+553652119310508610164606261643354956080356709306197884968437735764462",
+                  "min": "732272623668824.5422439899484181439167649524455695936456753635551531092015490460205821825857093543015897639490758584"
+                },
+                "type": "CONSTANT",
+                "unit": "string",
+                "value": "713004959269717501614933966403392143019898935180863848.645617555306888119096315180360252648670554016304859322145",
+                "additionalProp1": {}
+              },
+              "additionalProp1": {}
+            },
+            "city": {
+              "code": "string",
+              "name": "string",
+              "additionalProp1": {}
+            },
+            "country": {
+              "code": "string",
+              "name": "string",
+              "additionalProp1": {}
+            },
+            "descriptor": {
+              "additional_desc": {
+                "content_type": "text/plain",
+                "url": "string"
+              },
+              "code": "string",
+              "images": [
+                {
+                  "height": "string",
+                  "size_type": "xs",
+                  "url": "https://example.com/",
+                  "width": "string",
+                  "additionalProp1": {}
+                }
+              ],
+              "long_desc": "string",
+              "media": [
+                {
+                  "dsa": "string",
+                  "mimetype": "string",
+                  "signature": "string",
+                  "url": "https://example.com/",
+                  "additionalProp1": {}
+                }
+              ],
+              "name": "string",
+              "short_desc": "string",
+              "additionalProp1": {}
+            },
+            "district": "string",
+            "gps": "+7.812082384742339112481902666753748372021462292868281926623171610786002787322112095470,                                                                                            134",
+            "id": "string",
+            "map_url": "https://example.com/",
+            "polygon": "string",
+            "rating": "string",
+            "state": {
+              "code": "string",
+              "name": "string",
+              "additionalProp1": {}
+            },
+            "additionalProp1": {}
+          }
+        ],
+        "offers": [
+          {
+            "category_ids": [
+              "string"
+            ],
+            "descriptor": {
+              "additional_desc": {
+                "content_type": "text/plain",
+                "url": "string"
+              },
+              "code": "string",
+              "images": [
+                {
+                  "height": "string",
+                  "size_type": "xs",
+                  "url": "https://example.com/",
+                  "width": "string",
+                  "additionalProp1": {}
+                }
+              ],
+              "long_desc": "string",
+              "media": [
+                {
+                  "dsa": "string",
+                  "mimetype": "string",
+                  "signature": "string",
+                  "url": "https://example.com/",
+                  "additionalProp1": {}
+                }
+              ],
+              "name": "string",
+              "short_desc": "string",
+              "additionalProp1": {}
+            },
+            "id": "string",
+            "item_ids": [
+              "string"
+            ],
+            "location_ids": [
+              "string"
+            ],
+            "tags": [
+              {
+                "descriptor": {
+                  "additional_desc": {
+                    "content_type": "text/plain",
+                    "url": "string"
+                  },
+                  "code": "string",
+                  "images": [
+                    {
+                      "height": "string",
+                      "size_type": "xs",
+                      "url": "https://example.com/",
+                      "width": "string",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "long_desc": "string",
+                  "media": [
+                    {
+                      "dsa": "string",
+                      "mimetype": "string",
+                      "signature": "string",
+                      "url": "https://example.com/",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "name": "string",
+                  "short_desc": "string",
+                  "additionalProp1": {}
+                },
+                "display": true,
+                "list": [
+                  {
+                    "descriptor": {
+                      "additional_desc": {
+                        "content_type": "text/plain",
+                        "url": "string"
+                      },
+                      "code": "string",
+                      "images": [
+                        {
+                          "height": "string",
+                          "size_type": "xs",
+                          "url": "https://example.com/",
+                          "width": "string",
+                          "additionalProp1": {}
+                        }
+                      ],
+                      "long_desc": "string",
+                      "media": [
+                        {
+                          "dsa": "string",
+                          "mimetype": "string",
+                          "signature": "string",
+                          "url": "https://example.com/",
+                          "additionalProp1": {}
+                        }
+                      ],
+                      "name": "string",
+                      "short_desc": "string",
+                      "additionalProp1": {}
+                    },
+                    "display": true,
+                    "value": "string",
+                    "additionalProp1": {}
+                  }
+                ],
+                "additionalProp1": {}
+              }
+            ],
+            "time": {
+              "days": "string",
+              "duration": "string",
+              "label": "string",
+              "range": {
+                "end": "2025-06-11T14:42:36.800Z",
+                "start": "2025-06-11T14:42:36.800Z"
+              },
+              "schedule": {
+                "frequency": "string",
+                "holidays": [
+                  "2025-06-11T14:42:36.800Z"
+                ],
+                "times": [
+                  "2025-06-11T14:42:36.800Z"
+                ],
+                "additionalProp1": {}
+              },
+              "timestamp": "2025-06-11T14:42:36.800Z",
+              "additionalProp1": {}
+            },
+            "additionalProp1": {}
+          }
+        ],
+        "payments": [
+          {
+            "collected_by": "string",
+            "id": "string",
+            "params": {
+              "amount": "string",
+              "bank_account_number": "string",
+              "bank_code": "string",
+              "currency": "string",
+              "source_bank_account_number": "string",
+              "source_bank_code": "string",
+              "source_virtual_payment_address": "string",
+              "transaction_id": "string",
+              "virtual_payment_address": "string"
+            },
+            "status": "string",
+            "tags": [
+              {
+                "descriptor": {
+                  "additional_desc": {
+                    "content_type": "text/plain",
+                    "url": "string"
+                  },
+                  "code": "string",
+                  "images": [
+                    {
+                      "height": "string",
+                      "size_type": "xs",
+                      "url": "https://example.com/",
+                      "width": "string",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "long_desc": "string",
+                  "media": [
+                    {
+                      "dsa": "string",
+                      "mimetype": "string",
+                      "signature": "string",
+                      "url": "https://example.com/",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "name": "string",
+                  "short_desc": "string",
+                  "additionalProp1": {}
+                },
+                "display": true,
+                "list": [
+                  {
+                    "descriptor": {
+                      "additional_desc": {
+                        "content_type": "text/plain",
+                        "url": "string"
+                      },
+                      "code": "string",
+                      "images": [
+                        {
+                          "height": "string",
+                          "size_type": "xs",
+                          "url": "https://example.com/",
+                          "width": "string",
+                          "additionalProp1": {}
+                        }
+                      ],
+                      "long_desc": "string",
+                      "media": [
+                        {
+                          "dsa": "string",
+                          "mimetype": "string",
+                          "signature": "string",
+                          "url": "https://example.com/",
+                          "additionalProp1": {}
+                        }
+                      ],
+                      "name": "string",
+                      "short_desc": "string",
+                      "additionalProp1": {}
+                    },
+                    "display": true,
+                    "value": "string",
+                    "additionalProp1": {}
+                  }
+                ],
+                "additionalProp1": {}
+              }
+            ],
+            "time": {
+              "days": "string",
+              "duration": "string",
+              "label": "string",
+              "range": {
+                "end": "2025-06-11T14:42:36.800Z",
+                "start": "2025-06-11T14:42:36.800Z"
+              },
+              "schedule": {
+                "frequency": "string",
+                "holidays": [
+                  "2025-06-11T14:42:36.800Z"
+                ],
+                "times": [
+                  "2025-06-11T14:42:36.800Z"
+                ],
+                "additionalProp1": {}
+              },
+              "timestamp": "2025-06-11T14:42:36.800Z",
+              "additionalProp1": {}
+            },
+            "type": "string",
+            "url": "https://example.com/",
+            "additionalProp1": {}
+          }
+        ],
+        "rateable": true,
+        "rating": "string",
+        "tags": [
+          {
+            "descriptor": {
+              "additional_desc": {
+                "content_type": "text/plain",
+                "url": "string"
+              },
+              "code": "string",
+              "images": [
+                {
+                  "height": "string",
+                  "size_type": "xs",
+                  "url": "https://example.com/",
+                  "width": "string",
+                  "additionalProp1": {}
+                }
+              ],
+              "long_desc": "string",
+              "media": [
+                {
+                  "dsa": "string",
+                  "mimetype": "string",
+                  "signature": "string",
+                  "url": "https://example.com/",
+                  "additionalProp1": {}
+                }
+              ],
+              "name": "string",
+              "short_desc": "string",
+              "additionalProp1": {}
+            },
+            "display": true,
+            "list": [
+              {
+                "descriptor": {
+                  "additional_desc": {
+                    "content_type": "text/plain",
+                    "url": "string"
+                  },
+                  "code": "string",
+                  "images": [
+                    {
+                      "height": "string",
+                      "size_type": "xs",
+                      "url": "https://example.com/",
+                      "width": "string",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "long_desc": "string",
+                  "media": [
+                    {
+                      "dsa": "string",
+                      "mimetype": "string",
+                      "signature": "string",
+                      "url": "https://example.com/",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "name": "string",
+                  "short_desc": "string",
+                  "additionalProp1": {}
+                },
+                "display": true,
+                "value": "string",
+                "additionalProp1": {}
+              }
+            ],
+            "additionalProp1": {}
+          }
+        ],
+        "time": {
+          "days": "string",
+          "duration": "string",
+          "label": "string",
+          "range": {
+            "end": "2025-06-11T14:42:36.800Z",
+            "start": "2025-06-11T14:42:36.800Z"
+          },
+          "schedule": {
+            "frequency": "string",
+            "holidays": [
+              "2025-06-11T14:42:36.800Z"
+            ],
+            "times": [
+              "2025-06-11T14:42:36.800Z"
+            ],
+            "additionalProp1": {}
+          },
+          "timestamp": "2025-06-11T14:42:36.800Z",
+          "additionalProp1": {}
+        },
+        "ttl": 0,
+        "additionalProp1": {}
+      },
+      "tags": [
+        {
+          "descriptor": {
+            "additional_desc": {
+              "content_type": "text/plain",
+              "url": "string"
+            },
+            "code": "string",
+            "images": [
+              {
+                "height": "string",
+                "size_type": "xs",
+                "url": "https://example.com/",
+                "width": "string",
+                "additionalProp1": {}
+              }
+            ],
+            "long_desc": "string",
+            "media": [
+              {
+                "dsa": "string",
+                "mimetype": "string",
+                "signature": "string",
+                "url": "https://example.com/",
+                "additionalProp1": {}
+              }
+            ],
+            "name": "string",
+            "short_desc": "string",
+            "additionalProp1": {}
+          },
+          "display": true,
+          "list": [
+            {
+              "descriptor": {
+                "additional_desc": {
+                  "content_type": "text/plain",
+                  "url": "string"
+                },
+                "code": "string",
+                "images": [
+                  {
+                    "height": "string",
+                    "size_type": "xs",
+                    "url": "https://example.com/",
+                    "width": "string",
+                    "additionalProp1": {}
+                  }
+                ],
+                "long_desc": "string",
+                "media": [
+                  {
+                    "dsa": "string",
+                    "mimetype": "string",
+                    "signature": "string",
+                    "url": "https://example.com/",
+                    "additionalProp1": {}
+                  }
+                ],
+                "name": "string",
+                "short_desc": "string",
+                "additionalProp1": {}
+              },
+              "display": true,
+              "value": "string",
+              "additionalProp1": {}
+            }
+          ],
+          "additionalProp1": {}
+        }
+      ],
+      "fulfillment": {
+        "agent": {
+          "contact": {
+            "email": "string",
+            "jcard": {},
+            "phone": "string",
+            "additionalProp1": {}
+          },
+          "organization": {
+            "address": "string",
+            "city": {
+              "code": "string",
+              "name": "string",
+              "additionalProp1": {}
+            },
+            "contact": {
+              "email": "string",
+              "jcard": {},
+              "phone": "string",
+              "additionalProp1": {}
+            },
+            "descriptor": {
+              "additional_desc": {
+                "content_type": "text/plain",
+                "url": "string"
+              },
+              "code": "string",
+              "images": [
+                {
+                  "height": "string",
+                  "size_type": "xs",
+                  "url": "https://example.com/",
+                  "width": "string",
+                  "additionalProp1": {}
+                }
+              ],
+              "long_desc": "string",
+              "media": [
+                {
+                  "dsa": "string",
+                  "mimetype": "string",
+                  "signature": "string",
+                  "url": "https://example.com/",
+                  "additionalProp1": {}
+                }
+              ],
+              "name": "string",
+              "short_desc": "string",
+              "additionalProp1": {}
+            },
+            "state": {
+              "code": "string",
+              "name": "string",
+              "additionalProp1": {}
+            },
+            "additionalProp1": {}
+          },
+          "person": {
+            "age": "string",
+            "creds": [
+              {
+                "id": "string",
+                "type": "VerifiableCredential",
+                "url": "https://example.com/",
+                "additionalProp1": {}
+              }
+            ],
+            "dob": "2025-06-11",
+            "gender": "string",
+            "id": "string",
+            "image": {
+              "height": "string",
+              "size_type": "xs",
+              "url": "https://example.com/",
+              "width": "string",
+              "additionalProp1": {}
+            },
+            "languages": [
+              {
+                "code": "string",
+                "name": "string"
+              }
+            ],
+            "name": "string",
+            "skills": [
+              {
+                "code": "string",
+                "name": "string"
+              }
+            ],
+            "tags": [
+              {
+                "descriptor": {
+                  "additional_desc": {
+                    "content_type": "text/plain",
+                    "url": "string"
+                  },
+                  "code": "string",
+                  "images": [
+                    {
+                      "height": "string",
+                      "size_type": "xs",
+                      "url": "https://example.com/",
+                      "width": "string",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "long_desc": "string",
+                  "media": [
+                    {
+                      "dsa": "string",
+                      "mimetype": "string",
+                      "signature": "string",
+                      "url": "https://example.com/",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "name": "string",
+                  "short_desc": "string",
+                  "additionalProp1": {}
+                },
+                "display": true,
+                "list": [
+                  {
+                    "descriptor": {
+                      "additional_desc": {
+                        "content_type": "text/plain",
+                        "url": "string"
+                      },
+                      "code": "string",
+                      "images": [
+                        {
+                          "height": "string",
+                          "size_type": "xs",
+                          "url": "https://example.com/",
+                          "width": "string",
+                          "additionalProp1": {}
+                        }
+                      ],
+                      "long_desc": "string",
+                      "media": [
+                        {
+                          "dsa": "string",
+                          "mimetype": "string",
+                          "signature": "string",
+                          "url": "https://example.com/",
+                          "additionalProp1": {}
+                        }
+                      ],
+                      "name": "string",
+                      "short_desc": "string",
+                      "additionalProp1": {}
+                    },
+                    "display": true,
+                    "value": "string",
+                    "additionalProp1": {}
+                  }
+                ],
+                "additionalProp1": {}
+              }
+            ],
+            "url": "https://example.com/",
+            "additionalProp1": {}
+          },
+          "rating": "string",
+          "additionalProp1": {}
+        },
+        "contact": {
+          "email": "string",
+          "jcard": {},
+          "phone": "string",
+          "additionalProp1": {}
+        },
+        "customer": {
+          "contact": {
+            "email": "string",
+            "jcard": {},
+            "phone": "string",
+            "additionalProp1": {}
+          },
+          "person": {
+            "age": "string",
+            "creds": [
+              {
+                "id": "string",
+                "type": "VerifiableCredential",
+                "url": "https://example.com/",
+                "additionalProp1": {}
+              }
+            ],
+            "dob": "2025-06-11",
+            "gender": "string",
+            "id": "string",
+            "image": {
+              "height": "string",
+              "size_type": "xs",
+              "url": "https://example.com/",
+              "width": "string",
+              "additionalProp1": {}
+            },
+            "languages": [
+              {
+                "code": "string",
+                "name": "string"
+              }
+            ],
+            "name": "string",
+            "skills": [
+              {
+                "code": "string",
+                "name": "string"
+              }
+            ],
+            "tags": [
+              {
+                "descriptor": {
+                  "additional_desc": {
+                    "content_type": "text/plain",
+                    "url": "string"
+                  },
+                  "code": "string",
+                  "images": [
+                    {
+                      "height": "string",
+                      "size_type": "xs",
+                      "url": "https://example.com/",
+                      "width": "string",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "long_desc": "string",
+                  "media": [
+                    {
+                      "dsa": "string",
+                      "mimetype": "string",
+                      "signature": "string",
+                      "url": "https://example.com/",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "name": "string",
+                  "short_desc": "string",
+                  "additionalProp1": {}
+                },
+                "display": true,
+                "list": [
+                  {
+                    "descriptor": {
+                      "additional_desc": {
+                        "content_type": "text/plain",
+                        "url": "string"
+                      },
+                      "code": "string",
+                      "images": [
+                        {
+                          "height": "string",
+                          "size_type": "xs",
+                          "url": "https://example.com/",
+                          "width": "string",
+                          "additionalProp1": {}
+                        }
+                      ],
+                      "long_desc": "string",
+                      "media": [
+                        {
+                          "dsa": "string",
+                          "mimetype": "string",
+                          "signature": "string",
+                          "url": "https://example.com/",
+                          "additionalProp1": {}
+                        }
+                      ],
+                      "name": "string",
+                      "short_desc": "string",
+                      "additionalProp1": {}
+                    },
+                    "display": true,
+                    "value": "string",
+                    "additionalProp1": {}
+                  }
+                ],
+                "additionalProp1": {}
+              }
+            ],
+            "url": "https://example.com/",
+            "additionalProp1": {}
+          },
+          "additionalProp1": {}
+        },
+        "id": "string",
+        "path": "string",
+        "rateable": true,
+        "rating": "string",
+        "state": {
+          "descriptor": {
+            "additional_desc": {
+              "content_type": "text/plain",
+              "url": "string"
+            },
+            "code": "string",
+            "images": [
+              {
+                "height": "string",
+                "size_type": "xs",
+                "url": "https://example.com/",
+                "width": "string",
+                "additionalProp1": {}
+              }
+            ],
+            "long_desc": "string",
+            "media": [
+              {
+                "dsa": "string",
+                "mimetype": "string",
+                "signature": "string",
+                "url": "https://example.com/",
+                "additionalProp1": {}
+              }
+            ],
+            "name": "string",
+            "short_desc": "string",
+            "additionalProp1": {}
+          },
+          "updated_at": "2025-06-11T14:42:36.801Z",
+          "updated_by": "string",
+          "additionalProp1": {}
+        },
+        "tags": [
+          {
+            "descriptor": {
+              "additional_desc": {
+                "content_type": "text/plain",
+                "url": "string"
+              },
+              "code": "string",
+              "images": [
+                {
+                  "height": "string",
+                  "size_type": "xs",
+                  "url": "https://example.com/",
+                  "width": "string",
+                  "additionalProp1": {}
+                }
+              ],
+              "long_desc": "string",
+              "media": [
+                {
+                  "dsa": "string",
+                  "mimetype": "string",
+                  "signature": "string",
+                  "url": "https://example.com/",
+                  "additionalProp1": {}
+                }
+              ],
+              "name": "string",
+              "short_desc": "string",
+              "additionalProp1": {}
+            },
+            "display": true,
+            "list": [
+              {
+                "descriptor": {
+                  "additional_desc": {
+                    "content_type": "text/plain",
+                    "url": "string"
+                  },
+                  "code": "string",
+                  "images": [
+                    {
+                      "height": "string",
+                      "size_type": "xs",
+                      "url": "https://example.com/",
+                      "width": "string",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "long_desc": "string",
+                  "media": [
+                    {
+                      "dsa": "string",
+                      "mimetype": "string",
+                      "signature": "string",
+                      "url": "https://example.com/",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "name": "string",
+                  "short_desc": "string",
+                  "additionalProp1": {}
+                },
+                "display": true,
+                "value": "string",
+                "additionalProp1": {}
+              }
+            ],
+            "additionalProp1": {}
+          }
+        ],
+        "tracking": false,
+        "type": "string",
+        "vehicle": {
+          "capacity": 0,
+          "cargo_volumne": "string",
+          "category": "string",
+          "code": "string",
+          "color": "string",
+          "emission_standard": "string",
+          "energy_type": "string",
+          "make": "string",
+          "model": "string",
+          "registration": "string",
+          "size": "string",
+          "variant": "string",
+          "wheelchair_access": "string",
+          "wheels_count": "string",
+          "additionalProp1": {}
+        },
+        "stops": [
+          {
+            "location": {
+              "address": "string"
+            },
+            "type": "END"
+          },
+          {
+            "authorization": {
+              "status": "string",
+              "token": "string",
+              "type": "string",
+              "valid_from": "2025-06-11T14:42:36.801Z",
+              "valid_to": "2025-06-11T14:42:36.801Z",
+              "additionalProp1": {}
+            },
+            "contact": {
+              "email": "string",
+              "jcard": {},
+              "phone": "string",
+              "additionalProp1": {}
+            },
+            "id": "string",
+            "instructions": {
+              "additional_desc": {
+                "content_type": "text/plain",
+                "url": "string"
+              },
+              "code": "string",
+              "images": [
+                {
+                  "height": "string",
+                  "size_type": "xs",
+                  "url": "https://example.com/",
+                  "width": "string",
+                  "additionalProp1": {}
+                }
+              ],
+              "long_desc": "string",
+              "media": [
+                {
+                  "dsa": "string",
+                  "mimetype": "string",
+                  "signature": "string",
+                  "url": "https://example.com/",
+                  "additionalProp1": {}
+                }
+              ],
+              "name": "string",
+              "short_desc": "string",
+              "additionalProp1": {}
+            },
+            "location": {
+              "3dspace": "string",
+              "address": "string",
+              "area_code": "string",
+              "circle": {
+                "gps": "4.461132367419228343320,              180.0000000000000000000000000000",
+                "radius": {
+                  "computed_value": "12660046183256761218904728660067242946803334940602128413459111933506750164828632590917397",
+                  "estimated_value": "-461705814854419624983333345023112045360439878221920480437900974249262388609533196843545765634661049",
+                  "range": {
+                    "max": "+0281365040497730880130438070197211220111728104352799655825611643059378665974375",
+                    "min": "-1077158628601119592750784145984606"
+                  },
+                  "type": "CONSTANT",
+                  "unit": "string",
+                  "value": "-177754367987619377053045164991351709617111130826395378708856",
+                  "additionalProp1": {}
+                },
+                "additionalProp1": {}
+              },
+              "city": {
+                "code": "string",
+                "name": "string",
+                "additionalProp1": {}
+              },
+              "country": {
+                "code": "string",
+                "name": "string",
+                "additionalProp1": {}
+              },
+              "descriptor": {
+                "additional_desc": {
+                  "content_type": "text/plain",
+                  "url": "string"
+                },
+                "code": "string",
+                "images": [
+                  {
+                    "height": "string",
+                    "size_type": "xs",
+                    "url": "https://example.com/",
+                    "width": "string",
+                    "additionalProp1": {}
+                  }
+                ],
+                "long_desc": "string",
+                "media": [
+                  {
+                    "dsa": "string",
+                    "mimetype": "string",
+                    "signature": "string",
+                    "url": "https://example.com/",
+                    "additionalProp1": {}
+                  }
+                ],
+                "name": "string",
+                "short_desc": "string",
+                "additionalProp1": {}
+              },
+              "district": "string",
+              "gps": "+5,       -7",
+              "id": "string",
+              "map_url": "https://example.com/",
+              "polygon": "string",
+              "rating": "string",
+              "state": {
+                "code": "string",
+                "name": "string",
+                "additionalProp1": {}
+              },
+              "additionalProp1": {}
+            },
+            "parent_stop_id": "string",
+            "person": {
+              "age": "string",
+              "creds": [
+                {
+                  "id": "string",
+                  "type": "VerifiableCredential",
+                  "url": "https://example.com/",
+                  "additionalProp1": {}
+                }
+              ],
+              "dob": "2025-06-11",
+              "gender": "string",
+              "id": "string",
+              "image": {
+                "height": "string",
+                "size_type": "xs",
+                "url": "https://example.com/",
+                "width": "string",
+                "additionalProp1": {}
+              },
+              "languages": [
+                {
+                  "code": "string",
+                  "name": "string"
+                }
+              ],
+              "name": "string",
+              "skills": [
+                {
+                  "code": "string",
+                  "name": "string"
+                }
+              ],
+              "tags": [
+                {
+                  "descriptor": {
+                    "additional_desc": {
+                      "content_type": "text/plain",
+                      "url": "string"
+                    },
+                    "code": "string",
+                    "images": [
+                      {
+                        "height": "string",
+                        "size_type": "xs",
+                        "url": "https://example.com/",
+                        "width": "string",
+                        "additionalProp1": {}
+                      }
+                    ],
+                    "long_desc": "string",
+                    "media": [
+                      {
+                        "dsa": "string",
+                        "mimetype": "string",
+                        "signature": "string",
+                        "url": "https://example.com/",
+                        "additionalProp1": {}
+                      }
+                    ],
+                    "name": "string",
+                    "short_desc": "string",
+                    "additionalProp1": {}
+                  },
+                  "display": true,
+                  "list": [
+                    {
+                      "descriptor": {
+                        "additional_desc": {
+                          "content_type": "text/plain",
+                          "url": "string"
+                        },
+                        "code": "string",
+                        "images": [
+                          {
+                            "height": "string",
+                            "size_type": "xs",
+                            "url": "https://example.com/",
+                            "width": "string",
+                            "additionalProp1": {}
+                          }
+                        ],
+                        "long_desc": "string",
+                        "media": [
+                          {
+                            "dsa": "string",
+                            "mimetype": "string",
+                            "signature": "string",
+                            "url": "https://example.com/",
+                            "additionalProp1": {}
+                          }
+                        ],
+                        "name": "string",
+                        "short_desc": "string",
+                        "additionalProp1": {}
+                      },
+                      "display": true,
+                      "value": "string",
+                      "additionalProp1": {}
+                    }
+                  ],
+                  "additionalProp1": {}
+                }
+              ],
+              "url": "https://example.com/",
+              "additionalProp1": {}
+            },
+            "time": {
+              "days": "string",
+              "duration": "string",
+              "label": "string",
+              "range": {
+                "end": "2025-06-11T14:42:36.803Z",
+                "start": "2025-06-11T14:42:36.803Z"
+              },
+              "schedule": {
+                "frequency": "string",
+                "holidays": [
+                  "2025-06-11T14:42:36.803Z"
+                ],
+                "times": [
+                  "2025-06-11T14:42:36.803Z"
+                ],
+                "additionalProp1": {}
+              },
+              "timestamp": "2025-06-11T14:42:36.803Z",
+              "additionalProp1": {}
+            },
+            "type": "START",
+            "additionalProp1": {}
+          }
+        ],
+        "additionalProp1": {}
+      },
+      "additionalProp1": {}
+    }
+  }
+}
